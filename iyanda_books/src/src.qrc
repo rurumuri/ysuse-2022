@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icons/icons8-align-bottom-96.png</file>
+        <file>icons/icons8-create-96.png</file>
+        <file>icons/icons8-delete-96.png</file>
+        <file>icons/icons8-done-96.png</file>
+        <file>icons/icons8-edit-96.png</file>
+        <file>icons/icons8-info-96.png</file>
+        <file>icons/icons8-key-96.png</file>
+        <file>icons/icons8-leave-96.png</file>
+        <file>icons/icons8-news-96.png</file>
+        <file>icons/icons8-plus-96.png</file>
+        <file>icons/icons8-remove-96.png</file>
+        <file>icons/icons8-search-96.png</file>
+        <file>icons/icons8-about-96.png</file>
+        <file>icons/icons8-buy-96.png</file>
+        <file>icons/icons8-sale-96.png</file>
+        <file>icons/icons8-filter-96.png</file>
+        <file>icons/icons8-replay-96.png</file>
+        <file>icons/icons8-books-96.png</file>
+    </qresource>
+    <qresource prefix="/src"/>
+    <qresource prefix="/pic">
+        <file>1.gif</file>
+    </qresource>
+</RCC>
