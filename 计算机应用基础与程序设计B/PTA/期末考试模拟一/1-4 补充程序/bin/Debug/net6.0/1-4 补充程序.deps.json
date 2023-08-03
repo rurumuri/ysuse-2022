@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "1-4 补充程序/1.0.0": {
+        "runtime": {
+          "1-4 补充程序.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1-4 补充程序/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

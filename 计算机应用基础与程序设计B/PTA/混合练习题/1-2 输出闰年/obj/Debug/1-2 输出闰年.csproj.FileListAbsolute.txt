@@ -1,0 +1,8 @@
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\1-2 输出闰年\bin\Debug\1-2 输出闰年.exe.config
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\1-2 输出闰年\bin\Debug\1-2 输出闰年.exe
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\1-2 输出闰年\bin\Debug\1-2 输出闰年.pdb
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\1-2 输出闰年\obj\Debug\1-2 输出闰年.csproj.AssemblyReference.cache
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\1-2 输出闰年\obj\Debug\1-2 输出闰年.csproj.SuggestedBindingRedirects.cache
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\1-2 输出闰年\obj\Debug\1-2 输出闰年.csproj.CoreCompileInputs.cache
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\1-2 输出闰年\obj\Debug\1-2 输出闰年.exe
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\1-2 输出闰年\obj\Debug\1-2 输出闰年.pdb

@@ -1,0 +1,8 @@
+E:\文件\Projects\#PTA\Se01C#\软件工程2022级1,2,3班《程序设计基础》期末考试第一次模拟题\2-5 N阶方阵的转置\bin\Debug\2-5 N阶方阵的转置.exe.config
+E:\文件\Projects\#PTA\Se01C#\软件工程2022级1,2,3班《程序设计基础》期末考试第一次模拟题\2-5 N阶方阵的转置\bin\Debug\2-5 N阶方阵的转置.exe
+E:\文件\Projects\#PTA\Se01C#\软件工程2022级1,2,3班《程序设计基础》期末考试第一次模拟题\2-5 N阶方阵的转置\bin\Debug\2-5 N阶方阵的转置.pdb
+E:\文件\Projects\#PTA\Se01C#\软件工程2022级1,2,3班《程序设计基础》期末考试第一次模拟题\2-5 N阶方阵的转置\obj\Debug\2-5 N阶方阵的转置.csproj.AssemblyReference.cache
+E:\文件\Projects\#PTA\Se01C#\软件工程2022级1,2,3班《程序设计基础》期末考试第一次模拟题\2-5 N阶方阵的转置\obj\Debug\2-5 N阶方阵的转置.csproj.SuggestedBindingRedirects.cache
+E:\文件\Projects\#PTA\Se01C#\软件工程2022级1,2,3班《程序设计基础》期末考试第一次模拟题\2-5 N阶方阵的转置\obj\Debug\2-5 N阶方阵的转置.csproj.CoreCompileInputs.cache
+E:\文件\Projects\#PTA\Se01C#\软件工程2022级1,2,3班《程序设计基础》期末考试第一次模拟题\2-5 N阶方阵的转置\obj\Debug\2-5 N阶方阵的转置.exe
+E:\文件\Projects\#PTA\Se01C#\软件工程2022级1,2,3班《程序设计基础》期末考试第一次模拟题\2-5 N阶方阵的转置\obj\Debug\2-5 N阶方阵的转置.pdb

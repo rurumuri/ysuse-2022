@@ -1,0 +1,16 @@
+D:\#Files\Projects\VS\C#\@PTA\2022级软件工程1,2,3班第二次实验题\2-1 数值交换\bin\Debug\2-1 数值交换.exe.config
+D:\#Files\Projects\VS\C#\@PTA\2022级软件工程1,2,3班第二次实验题\2-1 数值交换\bin\Debug\2-1 数值交换.exe
+D:\#Files\Projects\VS\C#\@PTA\2022级软件工程1,2,3班第二次实验题\2-1 数值交换\bin\Debug\2-1 数值交换.pdb
+D:\#Files\Projects\VS\C#\@PTA\2022级软件工程1,2,3班第二次实验题\2-1 数值交换\obj\Debug\2-1 数值交换.csproj.AssemblyReference.cache
+D:\#Files\Projects\VS\C#\@PTA\2022级软件工程1,2,3班第二次实验题\2-1 数值交换\obj\Debug\2-1 数值交换.csproj.SuggestedBindingRedirects.cache
+D:\#Files\Projects\VS\C#\@PTA\2022级软件工程1,2,3班第二次实验题\2-1 数值交换\obj\Debug\2-1 数值交换.csproj.CoreCompileInputs.cache
+D:\#Files\Projects\VS\C#\@PTA\2022级软件工程1,2,3班第二次实验题\2-1 数值交换\obj\Debug\2-1 数值交换.exe
+D:\#Files\Projects\VS\C#\@PTA\2022级软件工程1,2,3班第二次实验题\2-1 数值交换\obj\Debug\2-1 数值交换.pdb
+E:\文件\Projects\CwC\C#\2022级软件工程1,2,3班第二次实验题\2-1 数值交换\bin\Debug\2-1 数值交换.exe.config
+E:\文件\Projects\CwC\C#\2022级软件工程1,2,3班第二次实验题\2-1 数值交换\bin\Debug\2-1 数值交换.exe
+E:\文件\Projects\CwC\C#\2022级软件工程1,2,3班第二次实验题\2-1 数值交换\bin\Debug\2-1 数值交换.pdb
+E:\文件\Projects\CwC\C#\2022级软件工程1,2,3班第二次实验题\2-1 数值交换\obj\Debug\2-1 数值交换.csproj.AssemblyReference.cache
+E:\文件\Projects\CwC\C#\2022级软件工程1,2,3班第二次实验题\2-1 数值交换\obj\Debug\2-1 数值交换.csproj.SuggestedBindingRedirects.cache
+E:\文件\Projects\CwC\C#\2022级软件工程1,2,3班第二次实验题\2-1 数值交换\obj\Debug\2-1 数值交换.csproj.CoreCompileInputs.cache
+E:\文件\Projects\CwC\C#\2022级软件工程1,2,3班第二次实验题\2-1 数值交换\obj\Debug\2-1 数值交换.exe
+E:\文件\Projects\CwC\C#\2022级软件工程1,2,3班第二次实验题\2-1 数值交换\obj\Debug\2-1 数值交换.pdb

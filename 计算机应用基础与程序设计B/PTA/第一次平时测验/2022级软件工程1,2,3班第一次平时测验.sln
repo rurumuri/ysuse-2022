@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-1 求输入成绩的最大值和最小值。", "7-1 求输入成绩的最大值和最小值。\7-1 求输入成绩的最大值和最小值。.csproj", "{0C77C2AC-36A4-4209-B2AB-414EF98FC4ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-2 发放奖金。", "7-2 发放奖金。\7-2 发放奖金。.csproj", "{976CF343-CC1E-4750-93C5-810417A9D16D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C77C2AC-36A4-4209-B2AB-414EF98FC4ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C77C2AC-36A4-4209-B2AB-414EF98FC4ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C77C2AC-36A4-4209-B2AB-414EF98FC4ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C77C2AC-36A4-4209-B2AB-414EF98FC4ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{976CF343-CC1E-4750-93C5-810417A9D16D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{976CF343-CC1E-4750-93C5-810417A9D16D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{976CF343-CC1E-4750-93C5-810417A9D16D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{976CF343-CC1E-4750-93C5-810417A9D16D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A8217D5-F9F8-4AF8-A73E-4040D86FEBD5}
+	EndGlobalSection
+EndGlobal

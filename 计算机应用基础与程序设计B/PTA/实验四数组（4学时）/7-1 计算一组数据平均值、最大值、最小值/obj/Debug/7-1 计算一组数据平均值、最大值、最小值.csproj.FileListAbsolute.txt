@@ -1,0 +1,16 @@
+D:\#Files\Projects\@PTA\Csharp实验四数组（4学时）（22软件1-3班）\7-1 计算一组数据平均值、最大值、最小值\bin\Debug\7-1 计算一组数据平均值、最大值、最小值.exe.config
+D:\#Files\Projects\@PTA\Csharp实验四数组（4学时）（22软件1-3班）\7-1 计算一组数据平均值、最大值、最小值\bin\Debug\7-1 计算一组数据平均值、最大值、最小值.exe
+D:\#Files\Projects\@PTA\Csharp实验四数组（4学时）（22软件1-3班）\7-1 计算一组数据平均值、最大值、最小值\bin\Debug\7-1 计算一组数据平均值、最大值、最小值.pdb
+D:\#Files\Projects\@PTA\Csharp实验四数组（4学时）（22软件1-3班）\7-1 计算一组数据平均值、最大值、最小值\obj\Debug\7-1 计算一组数据平均值、最大值、最小值.csproj.AssemblyReference.cache
+D:\#Files\Projects\@PTA\Csharp实验四数组（4学时）（22软件1-3班）\7-1 计算一组数据平均值、最大值、最小值\obj\Debug\7-1 计算一组数据平均值、最大值、最小值.csproj.SuggestedBindingRedirects.cache
+D:\#Files\Projects\@PTA\Csharp实验四数组（4学时）（22软件1-3班）\7-1 计算一组数据平均值、最大值、最小值\obj\Debug\7-1 计算一组数据平均值、最大值、最小值.csproj.CoreCompileInputs.cache
+D:\#Files\Projects\@PTA\Csharp实验四数组（4学时）（22软件1-3班）\7-1 计算一组数据平均值、最大值、最小值\obj\Debug\7-1 计算一组数据平均值、最大值、最小值.exe
+D:\#Files\Projects\@PTA\Csharp实验四数组（4学时）（22软件1-3班）\7-1 计算一组数据平均值、最大值、最小值\obj\Debug\7-1 计算一组数据平均值、最大值、最小值.pdb
+E:\文件\Projects\CwC\C#\Csharp实验四数组（4学时）（22软件1-3班）\7-1 计算一组数据平均值、最大值、最小值\bin\Debug\7-1 计算一组数据平均值、最大值、最小值.exe.config
+E:\文件\Projects\CwC\C#\Csharp实验四数组（4学时）（22软件1-3班）\7-1 计算一组数据平均值、最大值、最小值\bin\Debug\7-1 计算一组数据平均值、最大值、最小值.exe
+E:\文件\Projects\CwC\C#\Csharp实验四数组（4学时）（22软件1-3班）\7-1 计算一组数据平均值、最大值、最小值\bin\Debug\7-1 计算一组数据平均值、最大值、最小值.pdb
+E:\文件\Projects\CwC\C#\Csharp实验四数组（4学时）（22软件1-3班）\7-1 计算一组数据平均值、最大值、最小值\obj\Debug\7-1 计算一组数据平均值、最大值、最小值.csproj.AssemblyReference.cache
+E:\文件\Projects\CwC\C#\Csharp实验四数组（4学时）（22软件1-3班）\7-1 计算一组数据平均值、最大值、最小值\obj\Debug\7-1 计算一组数据平均值、最大值、最小值.csproj.SuggestedBindingRedirects.cache
+E:\文件\Projects\CwC\C#\Csharp实验四数组（4学时）（22软件1-3班）\7-1 计算一组数据平均值、最大值、最小值\obj\Debug\7-1 计算一组数据平均值、最大值、最小值.csproj.CoreCompileInputs.cache
+E:\文件\Projects\CwC\C#\Csharp实验四数组（4学时）（22软件1-3班）\7-1 计算一组数据平均值、最大值、最小值\obj\Debug\7-1 计算一组数据平均值、最大值、最小值.exe
+E:\文件\Projects\CwC\C#\Csharp实验四数组（4学时）（22软件1-3班）\7-1 计算一组数据平均值、最大值、最小值\obj\Debug\7-1 计算一组数据平均值、最大值、最小值.pdb

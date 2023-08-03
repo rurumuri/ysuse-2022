@@ -1,0 +1,8 @@
+D:\#Files\Projects\@PTA\Csharp实验四数组（4学时）（22软件1-3班）\7-4 数组元素循环右移问题\bin\Debug\7-4 数组元素循环右移问题.exe.config
+D:\#Files\Projects\@PTA\Csharp实验四数组（4学时）（22软件1-3班）\7-4 数组元素循环右移问题\bin\Debug\7-4 数组元素循环右移问题.exe
+D:\#Files\Projects\@PTA\Csharp实验四数组（4学时）（22软件1-3班）\7-4 数组元素循环右移问题\bin\Debug\7-4 数组元素循环右移问题.pdb
+D:\#Files\Projects\@PTA\Csharp实验四数组（4学时）（22软件1-3班）\7-4 数组元素循环右移问题\obj\Debug\7-4 数组元素循环右移问题.csproj.AssemblyReference.cache
+D:\#Files\Projects\@PTA\Csharp实验四数组（4学时）（22软件1-3班）\7-4 数组元素循环右移问题\obj\Debug\7-4 数组元素循环右移问题.csproj.SuggestedBindingRedirects.cache
+D:\#Files\Projects\@PTA\Csharp实验四数组（4学时）（22软件1-3班）\7-4 数组元素循环右移问题\obj\Debug\7-4 数组元素循环右移问题.csproj.CoreCompileInputs.cache
+D:\#Files\Projects\@PTA\Csharp实验四数组（4学时）（22软件1-3班）\7-4 数组元素循环右移问题\obj\Debug\7-4 数组元素循环右移问题.exe
+D:\#Files\Projects\@PTA\Csharp实验四数组（4学时）（22软件1-3班）\7-4 数组元素循环右移问题\obj\Debug\7-4 数组元素循环右移问题.pdb

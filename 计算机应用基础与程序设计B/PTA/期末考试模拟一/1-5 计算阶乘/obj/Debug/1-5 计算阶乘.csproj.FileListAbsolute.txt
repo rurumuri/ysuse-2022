@@ -1,0 +1,8 @@
+E:\文件\Projects\#PTA\Se01C#\软件工程2022级1,2,3班《程序设计基础》期末考试第一次模拟题\1-5 计算阶乘\bin\Debug\1-5 计算阶乘.exe.config
+E:\文件\Projects\#PTA\Se01C#\软件工程2022级1,2,3班《程序设计基础》期末考试第一次模拟题\1-5 计算阶乘\bin\Debug\1-5 计算阶乘.exe
+E:\文件\Projects\#PTA\Se01C#\软件工程2022级1,2,3班《程序设计基础》期末考试第一次模拟题\1-5 计算阶乘\bin\Debug\1-5 计算阶乘.pdb
+E:\文件\Projects\#PTA\Se01C#\软件工程2022级1,2,3班《程序设计基础》期末考试第一次模拟题\1-5 计算阶乘\obj\Debug\1-5 计算阶乘.csproj.AssemblyReference.cache
+E:\文件\Projects\#PTA\Se01C#\软件工程2022级1,2,3班《程序设计基础》期末考试第一次模拟题\1-5 计算阶乘\obj\Debug\1-5 计算阶乘.csproj.SuggestedBindingRedirects.cache
+E:\文件\Projects\#PTA\Se01C#\软件工程2022级1,2,3班《程序设计基础》期末考试第一次模拟题\1-5 计算阶乘\obj\Debug\1-5 计算阶乘.csproj.CoreCompileInputs.cache
+E:\文件\Projects\#PTA\Se01C#\软件工程2022级1,2,3班《程序设计基础》期末考试第一次模拟题\1-5 计算阶乘\obj\Debug\1-5 计算阶乘.exe
+E:\文件\Projects\#PTA\Se01C#\软件工程2022级1,2,3班《程序设计基础》期末考试第一次模拟题\1-5 计算阶乘\obj\Debug\1-5 计算阶乘.pdb

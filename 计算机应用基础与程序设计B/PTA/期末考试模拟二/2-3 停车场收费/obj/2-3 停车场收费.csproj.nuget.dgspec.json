@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\文件\\Projects\\#PTA\\Se01C#\\2022软件工程1,2,3班第二次期末模拟题（往年真题）\\2-3 停车场收费\\2-3 停车场收费.csproj": {}
+  },
+  "projects": {
+    "E:\\文件\\Projects\\#PTA\\Se01C#\\2022软件工程1,2,3班第二次期末模拟题（往年真题）\\2-3 停车场收费\\2-3 停车场收费.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\文件\\Projects\\#PTA\\Se01C#\\2022软件工程1,2,3班第二次期末模拟题（往年真题）\\2-3 停车场收费\\2-3 停车场收费.csproj",
+        "projectName": "2-3 停车场收费",
+        "projectPath": "E:\\文件\\Projects\\#PTA\\Se01C#\\2022软件工程1,2,3班第二次期末模拟题（往年真题）\\2-3 停车场收费\\2-3 停车场收费.csproj",
+        "packagesPath": "C:\\Users\\csy20\\.nuget\\packages\\",
+        "outputPath": "E:\\文件\\Projects\\#PTA\\Se01C#\\2022软件工程1,2,3班第二次期末模拟题（往年真题）\\2-3 停车场收费\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\csy20\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

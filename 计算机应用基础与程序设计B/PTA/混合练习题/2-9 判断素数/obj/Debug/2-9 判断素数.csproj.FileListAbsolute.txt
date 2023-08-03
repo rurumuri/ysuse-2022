@@ -1,0 +1,8 @@
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\2-9 判断素数\bin\Debug\2-9 判断素数.exe.config
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\2-9 判断素数\bin\Debug\2-9 判断素数.exe
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\2-9 判断素数\bin\Debug\2-9 判断素数.pdb
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\2-9 判断素数\obj\Debug\2-9 判断素数.csproj.AssemblyReference.cache
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\2-9 判断素数\obj\Debug\2-9 判断素数.csproj.SuggestedBindingRedirects.cache
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\2-9 判断素数\obj\Debug\2-9 判断素数.csproj.CoreCompileInputs.cache
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\2-9 判断素数\obj\Debug\2-9 判断素数.exe
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\2-9 判断素数\obj\Debug\2-9 判断素数.pdb

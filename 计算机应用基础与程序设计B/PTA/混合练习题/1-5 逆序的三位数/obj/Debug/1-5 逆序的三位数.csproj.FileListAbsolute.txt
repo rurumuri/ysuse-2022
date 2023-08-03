@@ -1,0 +1,8 @@
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\1-5 逆序的三位数\bin\Debug\1-5 逆序的三位数.exe.config
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\1-5 逆序的三位数\bin\Debug\1-5 逆序的三位数.exe
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\1-5 逆序的三位数\bin\Debug\1-5 逆序的三位数.pdb
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\1-5 逆序的三位数\obj\Debug\1-5 逆序的三位数.csproj.AssemblyReference.cache
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\1-5 逆序的三位数\obj\Debug\1-5 逆序的三位数.csproj.SuggestedBindingRedirects.cache
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\1-5 逆序的三位数\obj\Debug\1-5 逆序的三位数.csproj.CoreCompileInputs.cache
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\1-5 逆序的三位数\obj\Debug\1-5 逆序的三位数.exe
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\1-5 逆序的三位数\obj\Debug\1-5 逆序的三位数.pdb

@@ -1,0 +1,8 @@
+D:\#Files\Projects\@PTA\Cs实验三循环结构程序设计（6学时）（22软件1-3班）\7-8 求前n项的阶乘之和\bin\Debug\7-8 求前n项的阶乘之和.exe.config
+D:\#Files\Projects\@PTA\Cs实验三循环结构程序设计（6学时）（22软件1-3班）\7-8 求前n项的阶乘之和\bin\Debug\7-8 求前n项的阶乘之和.exe
+D:\#Files\Projects\@PTA\Cs实验三循环结构程序设计（6学时）（22软件1-3班）\7-8 求前n项的阶乘之和\bin\Debug\7-8 求前n项的阶乘之和.pdb
+D:\#Files\Projects\@PTA\Cs实验三循环结构程序设计（6学时）（22软件1-3班）\7-8 求前n项的阶乘之和\obj\Debug\7-8 求前n项的阶乘之和.csproj.AssemblyReference.cache
+D:\#Files\Projects\@PTA\Cs实验三循环结构程序设计（6学时）（22软件1-3班）\7-8 求前n项的阶乘之和\obj\Debug\7-8 求前n项的阶乘之和.csproj.SuggestedBindingRedirects.cache
+D:\#Files\Projects\@PTA\Cs实验三循环结构程序设计（6学时）（22软件1-3班）\7-8 求前n项的阶乘之和\obj\Debug\7-8 求前n项的阶乘之和.csproj.CoreCompileInputs.cache
+D:\#Files\Projects\@PTA\Cs实验三循环结构程序设计（6学时）（22软件1-3班）\7-8 求前n项的阶乘之和\obj\Debug\7-8 求前n项的阶乘之和.exe
+D:\#Files\Projects\@PTA\Cs实验三循环结构程序设计（6学时）（22软件1-3班）\7-8 求前n项的阶乘之和\obj\Debug\7-8 求前n项的阶乘之和.pdb
