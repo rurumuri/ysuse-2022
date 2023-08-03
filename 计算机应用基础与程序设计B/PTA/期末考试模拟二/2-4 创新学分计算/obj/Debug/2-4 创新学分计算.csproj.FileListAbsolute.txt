@@ -1,0 +1,8 @@
+E:\文件\Projects\#PTA\Se01C#\2022软件工程1,2,3班第二次期末模拟题（往年真题）\2-4 创新学分计算\bin\Debug\2-4 创新学分计算.exe.config
+E:\文件\Projects\#PTA\Se01C#\2022软件工程1,2,3班第二次期末模拟题（往年真题）\2-4 创新学分计算\bin\Debug\2-4 创新学分计算.exe
+E:\文件\Projects\#PTA\Se01C#\2022软件工程1,2,3班第二次期末模拟题（往年真题）\2-4 创新学分计算\bin\Debug\2-4 创新学分计算.pdb
+E:\文件\Projects\#PTA\Se01C#\2022软件工程1,2,3班第二次期末模拟题（往年真题）\2-4 创新学分计算\obj\Debug\2-4 创新学分计算.csproj.AssemblyReference.cache
+E:\文件\Projects\#PTA\Se01C#\2022软件工程1,2,3班第二次期末模拟题（往年真题）\2-4 创新学分计算\obj\Debug\2-4 创新学分计算.csproj.SuggestedBindingRedirects.cache
+E:\文件\Projects\#PTA\Se01C#\2022软件工程1,2,3班第二次期末模拟题（往年真题）\2-4 创新学分计算\obj\Debug\2-4 创新学分计算.csproj.CoreCompileInputs.cache
+E:\文件\Projects\#PTA\Se01C#\2022软件工程1,2,3班第二次期末模拟题（往年真题）\2-4 创新学分计算\obj\Debug\2-4 创新学分计算.exe
+E:\文件\Projects\#PTA\Se01C#\2022软件工程1,2,3班第二次期末模拟题（往年真题）\2-4 创新学分计算\obj\Debug\2-4 创新学分计算.pdb

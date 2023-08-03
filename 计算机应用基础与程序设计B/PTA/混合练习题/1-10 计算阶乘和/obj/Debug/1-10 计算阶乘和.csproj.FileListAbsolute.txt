@@ -1,0 +1,8 @@
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\1-10 计算阶乘和\obj\Debug\1-10 计算阶乘和.csproj.AssemblyReference.cache
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\1-10 计算阶乘和\obj\Debug\1-10 计算阶乘和.csproj.SuggestedBindingRedirects.cache
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\1-10 计算阶乘和\obj\Debug\1-10 计算阶乘和.csproj.CoreCompileInputs.cache
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\1-10 计算阶乘和\bin\Debug\1-10 计算阶乘和.exe.config
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\1-10 计算阶乘和\bin\Debug\1-10 计算阶乘和.exe
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\1-10 计算阶乘和\bin\Debug\1-10 计算阶乘和.pdb
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\1-10 计算阶乘和\obj\Debug\1-10 计算阶乘和.exe
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\1-10 计算阶乘和\obj\Debug\1-10 计算阶乘和.pdb

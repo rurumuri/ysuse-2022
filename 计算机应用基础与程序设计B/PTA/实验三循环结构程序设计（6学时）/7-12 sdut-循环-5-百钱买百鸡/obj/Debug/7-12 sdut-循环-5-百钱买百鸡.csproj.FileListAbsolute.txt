@@ -1,0 +1,8 @@
+D:\#Files\Projects\@PTA\Cs实验三循环结构程序设计（6学时）（22软件1-3班）\7-12 sdut-循环-5-百钱买百鸡\bin\Debug\7-12 sdut-循环-5-百钱买百鸡.exe.config
+D:\#Files\Projects\@PTA\Cs实验三循环结构程序设计（6学时）（22软件1-3班）\7-12 sdut-循环-5-百钱买百鸡\bin\Debug\7-12 sdut-循环-5-百钱买百鸡.exe
+D:\#Files\Projects\@PTA\Cs实验三循环结构程序设计（6学时）（22软件1-3班）\7-12 sdut-循环-5-百钱买百鸡\bin\Debug\7-12 sdut-循环-5-百钱买百鸡.pdb
+D:\#Files\Projects\@PTA\Cs实验三循环结构程序设计（6学时）（22软件1-3班）\7-12 sdut-循环-5-百钱买百鸡\obj\Debug\7-12 sdut-循环-5-百钱买百鸡.csproj.AssemblyReference.cache
+D:\#Files\Projects\@PTA\Cs实验三循环结构程序设计（6学时）（22软件1-3班）\7-12 sdut-循环-5-百钱买百鸡\obj\Debug\7-12 sdut-循环-5-百钱买百鸡.csproj.SuggestedBindingRedirects.cache
+D:\#Files\Projects\@PTA\Cs实验三循环结构程序设计（6学时）（22软件1-3班）\7-12 sdut-循环-5-百钱买百鸡\obj\Debug\7-12 sdut-循环-5-百钱买百鸡.csproj.CoreCompileInputs.cache
+D:\#Files\Projects\@PTA\Cs实验三循环结构程序设计（6学时）（22软件1-3班）\7-12 sdut-循环-5-百钱买百鸡\obj\Debug\7-12 sdut-循环-5-百钱买百鸡.exe
+D:\#Files\Projects\@PTA\Cs实验三循环结构程序设计（6学时）（22软件1-3班）\7-12 sdut-循环-5-百钱买百鸡\obj\Debug\7-12 sdut-循环-5-百钱买百鸡.pdb

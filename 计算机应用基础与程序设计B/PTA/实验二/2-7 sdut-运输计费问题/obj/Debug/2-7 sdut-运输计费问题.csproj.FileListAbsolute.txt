@@ -1,0 +1,16 @@
+D:\#Files\Projects\VS\C#\@PTA\2022级软件工程1,2,3班第二次实验题\2-7 sdut-运输计费问题\bin\Debug\2-7 sdut-运输计费问题.exe.config
+D:\#Files\Projects\VS\C#\@PTA\2022级软件工程1,2,3班第二次实验题\2-7 sdut-运输计费问题\bin\Debug\2-7 sdut-运输计费问题.exe
+D:\#Files\Projects\VS\C#\@PTA\2022级软件工程1,2,3班第二次实验题\2-7 sdut-运输计费问题\bin\Debug\2-7 sdut-运输计费问题.pdb
+D:\#Files\Projects\VS\C#\@PTA\2022级软件工程1,2,3班第二次实验题\2-7 sdut-运输计费问题\obj\Debug\2-7 sdut-运输计费问题.csproj.AssemblyReference.cache
+D:\#Files\Projects\VS\C#\@PTA\2022级软件工程1,2,3班第二次实验题\2-7 sdut-运输计费问题\obj\Debug\2-7 sdut-运输计费问题.csproj.SuggestedBindingRedirects.cache
+D:\#Files\Projects\VS\C#\@PTA\2022级软件工程1,2,3班第二次实验题\2-7 sdut-运输计费问题\obj\Debug\2-7 sdut-运输计费问题.csproj.CoreCompileInputs.cache
+D:\#Files\Projects\VS\C#\@PTA\2022级软件工程1,2,3班第二次实验题\2-7 sdut-运输计费问题\obj\Debug\2-7 sdut-运输计费问题.exe
+D:\#Files\Projects\VS\C#\@PTA\2022级软件工程1,2,3班第二次实验题\2-7 sdut-运输计费问题\obj\Debug\2-7 sdut-运输计费问题.pdb
+E:\文件\Projects\CwC\C#\2022级软件工程1,2,3班第二次实验题\2-7 sdut-运输计费问题\bin\Debug\2-7 sdut-运输计费问题.exe.config
+E:\文件\Projects\CwC\C#\2022级软件工程1,2,3班第二次实验题\2-7 sdut-运输计费问题\bin\Debug\2-7 sdut-运输计费问题.exe
+E:\文件\Projects\CwC\C#\2022级软件工程1,2,3班第二次实验题\2-7 sdut-运输计费问题\bin\Debug\2-7 sdut-运输计费问题.pdb
+E:\文件\Projects\CwC\C#\2022级软件工程1,2,3班第二次实验题\2-7 sdut-运输计费问题\obj\Debug\2-7 sdut-运输计费问题.csproj.AssemblyReference.cache
+E:\文件\Projects\CwC\C#\2022级软件工程1,2,3班第二次实验题\2-7 sdut-运输计费问题\obj\Debug\2-7 sdut-运输计费问题.csproj.SuggestedBindingRedirects.cache
+E:\文件\Projects\CwC\C#\2022级软件工程1,2,3班第二次实验题\2-7 sdut-运输计费问题\obj\Debug\2-7 sdut-运输计费问题.csproj.CoreCompileInputs.cache
+E:\文件\Projects\CwC\C#\2022级软件工程1,2,3班第二次实验题\2-7 sdut-运输计费问题\obj\Debug\2-7 sdut-运输计费问题.exe
+E:\文件\Projects\CwC\C#\2022级软件工程1,2,3班第二次实验题\2-7 sdut-运输计费问题\obj\Debug\2-7 sdut-运输计费问题.pdb

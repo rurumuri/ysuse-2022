@@ -1,0 +1,8 @@
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\2-2 出租车计价\bin\Debug\2-2 出租车计价.exe.config
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\2-2 出租车计价\bin\Debug\2-2 出租车计价.exe
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\2-2 出租车计价\bin\Debug\2-2 出租车计价.pdb
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\2-2 出租车计价\obj\Debug\2-2 出租车计价.csproj.AssemblyReference.cache
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\2-2 出租车计价\obj\Debug\2-2 出租车计价.csproj.SuggestedBindingRedirects.cache
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\2-2 出租车计价\obj\Debug\2-2 出租车计价.csproj.CoreCompileInputs.cache
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\2-2 出租车计价\obj\Debug\2-2 出租车计价.exe
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\2-2 出租车计价\obj\Debug\2-2 出租车计价.pdb

@@ -1,0 +1,8 @@
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\3-8 方阵主对角线元素和以及副对角线元素的积\bin\Debug\3-8 方阵主对角线元素和以及副对角线元素的积.exe.config
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\3-8 方阵主对角线元素和以及副对角线元素的积\bin\Debug\3-8 方阵主对角线元素和以及副对角线元素的积.exe
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\3-8 方阵主对角线元素和以及副对角线元素的积\bin\Debug\3-8 方阵主对角线元素和以及副对角线元素的积.pdb
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\3-8 方阵主对角线元素和以及副对角线元素的积\obj\Debug\3-8 方阵主对角线元素和以及副对角线元素的积.csproj.AssemblyReference.cache
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\3-8 方阵主对角线元素和以及副对角线元素的积\obj\Debug\3-8 方阵主对角线元素和以及副对角线元素的积.csproj.SuggestedBindingRedirects.cache
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\3-8 方阵主对角线元素和以及副对角线元素的积\obj\Debug\3-8 方阵主对角线元素和以及副对角线元素的积.csproj.CoreCompileInputs.cache
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\3-8 方阵主对角线元素和以及副对角线元素的积\obj\Debug\3-8 方阵主对角线元素和以及副对角线元素的积.exe
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\3-8 方阵主对角线元素和以及副对角线元素的积\obj\Debug\3-8 方阵主对角线元素和以及副对角线元素的积.pdb

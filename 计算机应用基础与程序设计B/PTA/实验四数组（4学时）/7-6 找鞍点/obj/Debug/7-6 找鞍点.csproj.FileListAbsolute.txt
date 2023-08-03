@@ -1,0 +1,8 @@
+D:\#Files\Projects\@PTA\Csharp实验四数组（4学时）（22软件1-3班）\7-6 找鞍点\bin\Debug\7-6 找鞍点.exe.config
+D:\#Files\Projects\@PTA\Csharp实验四数组（4学时）（22软件1-3班）\7-6 找鞍点\bin\Debug\7-6 找鞍点.exe
+D:\#Files\Projects\@PTA\Csharp实验四数组（4学时）（22软件1-3班）\7-6 找鞍点\bin\Debug\7-6 找鞍点.pdb
+D:\#Files\Projects\@PTA\Csharp实验四数组（4学时）（22软件1-3班）\7-6 找鞍点\obj\Debug\7-6 找鞍点.csproj.AssemblyReference.cache
+D:\#Files\Projects\@PTA\Csharp实验四数组（4学时）（22软件1-3班）\7-6 找鞍点\obj\Debug\7-6 找鞍点.csproj.SuggestedBindingRedirects.cache
+D:\#Files\Projects\@PTA\Csharp实验四数组（4学时）（22软件1-3班）\7-6 找鞍点\obj\Debug\7-6 找鞍点.csproj.CoreCompileInputs.cache
+D:\#Files\Projects\@PTA\Csharp实验四数组（4学时）（22软件1-3班）\7-6 找鞍点\obj\Debug\7-6 找鞍点.exe
+D:\#Files\Projects\@PTA\Csharp实验四数组（4学时）（22软件1-3班）\7-6 找鞍点\obj\Debug\7-6 找鞍点.pdb

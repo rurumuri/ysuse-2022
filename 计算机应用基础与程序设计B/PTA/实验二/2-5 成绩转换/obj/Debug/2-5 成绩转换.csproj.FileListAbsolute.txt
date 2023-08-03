@@ -1,0 +1,8 @@
+D:\#Files\Projects\VS\C#\@PTA\2022级软件工程1,2,3班第二次实验题\2-5 成绩转换\bin\Debug\2-5 成绩转换.exe.config
+D:\#Files\Projects\VS\C#\@PTA\2022级软件工程1,2,3班第二次实验题\2-5 成绩转换\bin\Debug\2-5 成绩转换.exe
+D:\#Files\Projects\VS\C#\@PTA\2022级软件工程1,2,3班第二次实验题\2-5 成绩转换\bin\Debug\2-5 成绩转换.pdb
+D:\#Files\Projects\VS\C#\@PTA\2022级软件工程1,2,3班第二次实验题\2-5 成绩转换\obj\Debug\2-5 成绩转换.csproj.AssemblyReference.cache
+D:\#Files\Projects\VS\C#\@PTA\2022级软件工程1,2,3班第二次实验题\2-5 成绩转换\obj\Debug\2-5 成绩转换.csproj.SuggestedBindingRedirects.cache
+D:\#Files\Projects\VS\C#\@PTA\2022级软件工程1,2,3班第二次实验题\2-5 成绩转换\obj\Debug\2-5 成绩转换.csproj.CoreCompileInputs.cache
+D:\#Files\Projects\VS\C#\@PTA\2022级软件工程1,2,3班第二次实验题\2-5 成绩转换\obj\Debug\2-5 成绩转换.exe
+D:\#Files\Projects\VS\C#\@PTA\2022级软件工程1,2,3班第二次实验题\2-5 成绩转换\obj\Debug\2-5 成绩转换.pdb
