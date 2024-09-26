@@ -1,0 +1,20 @@
+/* ********** BEGIN ********** */
+body {
+    background-color: ivory;
+}
+
+
+/* ********** END ********** */
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    color: grey;
+    /* ********** BEGIN ********** */
+    background-color: lightblue;
+    /* ********** END ********** */
+}

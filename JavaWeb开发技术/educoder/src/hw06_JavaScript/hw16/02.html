@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p onclick="task1()">this is task onea</p>
+<p onclick="task2()">this is task two</p>
+<p onclick="removeTask1()">try to remove task one</p>
+<script>
+    var timeId1;
+    var timeId2;
+    function timerTask1() {
+        console.log("timerTask1!");
+    }
+    function timerTask2() {
+        console.log("timerTask2!");
+    }
+    function task1() {
+        timeId1 = window.setInterval(timerTask1,2000);
+    }
+    function task2() {
+        timeId2 = window.setInterval(timerTask2,1500);
+    }
+    function removeTask1() {
+        //请在此处编写代码
+        /********** Begin **********/
+
+        window.clearInterval(timeId1);
+
+        /********** End **********/
+    }
+</script>
+</body>
+</html>

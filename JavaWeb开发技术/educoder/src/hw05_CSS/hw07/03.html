@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document
+    </title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        @keyframes loading{
+            0%{ transform: rotate(0deg); }
+            100%{ transform: rotate(360deg); }
+        }
+        .box{
+            position: relative;
+            width: 100%;
+            height: auto;
+            background: black;
+        }
+        .big{
+            width: 40px;
+            height: 40px;
+            border: 5px solid red;
+            border-radius: 50%;
+            border-color: red red transparent transparent;
+            position: absolute;
+            left: 100px;
+            top: 100px;
+            /************ Begin **************/
+            animation:loading 1s linear infinite;
+
+            /************* End ***************/
+        }
+        .small{
+            width: 20px;
+            height: 20px;
+            border: 5px solid red;
+            border-radius: 50%;
+            border-color: transparent transparent red red;
+            position: absolute;
+            left: 110px;
+            top: 110px;
+            /************ Begin **************/
+
+            animation:loading 1.5s linear infinite reverse;
+
+
+            /************* End ***************/
+        }
+
+    </style>
+</head>
+<body>
+<div class="box">
+    <div class="big"></div>
+    <div class="small"></div>
+</div>
+</body>
+</html>

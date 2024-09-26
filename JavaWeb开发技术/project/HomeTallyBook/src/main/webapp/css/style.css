@@ -1,0 +1,84 @@
+@CHARSET "UTF-8";
+
+body {
+	overflow: hidden;
+}
+
+* {
+	margin: 0;
+	font-family:"Microsoft Yahei";
+	color: #666;
+}
+
+div{
+	margin: auto;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	
+}
+
+#header {
+	height: 82px;
+	width: 1200px;
+	
+}
+
+#main {
+	height: 550px;
+	width: 1200px;
+	border: 1px black solid;
+	overflow: auto;
+}
+
+
+.wel_word{
+	font-size: 60px;
+	float: left;
+}
+
+#header div a {
+	text-decoration: none;
+	font-size: 20px;
+}
+
+#header div{
+	float: right;
+	margin-top: 55px;
+}
+
+#main table{
+	margin: auto;
+	margin-top: 80px; 
+	border-collapse: collapse;
+}
+
+#main table td{
+	width: 120px;
+	text-align:center;
+	border-bottom: 1px #e3e3e3 solid;
+	padding: 10px;
+	font-size:20px;
+}
+
+#main table td input {
+	text-align: center;
+}
+
+#main h1 {
+	text-align: center;
+	margin-top: 200px;
+}
+
+#header div span {
+	margin: 10px;
+}
+
+#header div .um_span{
+	color: red;
+	font-size: 25px;
+	margin: 10px;
+}
+
+#header div a {
+	color: blue;
+}

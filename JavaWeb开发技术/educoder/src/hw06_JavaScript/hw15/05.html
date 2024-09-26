@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form>
+    <input id="input" type="text" onchange="changeEvent()" />
+    <input id="input2" type="text"  />
+</form>
+<script>
+    function changeEvent() {
+        //请在此处编写代码
+        /********** Begin **********/
+
+        if (document.getElementById("input").text.length <= 12) {
+            console.log("too short input");
+        }
+
+        /********** End **********/
+    }
+</script>
+</body>
+</html>

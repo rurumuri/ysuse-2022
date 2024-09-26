@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document
+    </title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        p{
+            margin: 100px;
+            width: 100px;
+            height: 100px;
+            background: orange;
+        }
+        /************* Begin ************/
+        /* 创建动画 */
+
+        @keyframes changeColor {
+            from {
+                width: 100px;
+            }
+            to {
+                width: 400px;
+            }
+        }
+
+        /*绑定元素*/
+
+        p:hover {
+            animation: changeColor 2s ease-in;
+        }
+
+        /************** End **************/
+
+
+    </style>
+</head>
+<body>
+<p></p>
+</body>
+</html>

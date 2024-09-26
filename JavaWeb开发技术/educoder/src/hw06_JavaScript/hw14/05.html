@@ -1,0 +1,44 @@
+<html>
+<head>
+    <title>myTitle</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+<select id="province" onChange="changeCity()">
+    <option value="BeiJing" id="bj">北京</option>
+    <option value="AnHui" id="ah">安徽</option>
+</select>
+<select id="city">
+    <option value="BeiJingCity">北京市</option>
+</select>
+<script>
+    function changeCity() {
+        var province = document.getElementById("province");
+        var city = document.getElementById("city");
+        var length = city.children.length;
+        for(var i = length-1;i >= 0;i--) {
+            city.removeChild(city.children[i]);
+        }
+        if(province.value == "BeiJing") {
+            var child1 = document.createElement("option");
+            child1.value="BeiJingCity";
+            child1.innerText="北京市"
+            city.appendChild(child1);
+        } else {
+            var child1 = document.createElement("option");
+            child1.value="HuangShanCity";
+            child1.innerText="黄山市";
+            city.appendChild(child1);
+            //请在此处编写代码
+            /*********Begin*********/
+            var child2 = document.createElement("option");
+            child2.value="HeFeiCity";
+            child2.innerText="合肥市";
+            city.appendChild(child2);
+
+            /*********End*********/
+        }
+    }
+</script>
+</body>
+</html>

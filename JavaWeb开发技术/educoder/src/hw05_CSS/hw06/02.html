@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>
+    </title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        .container{
+            width: 580px;
+            height: 200px;
+            border: 2px solid #000;
+            overflow: hidden;
+            margin: 30px;
+            position: relative ;
+        }
+        .box{
+            width: 100%;
+            height: 0px;
+            background: #fff;
+            position: absolute;
+            left: 0 ;
+            bottom: 0;
+            text-align: center;
+            line-height: 50px;
+
+            /********** 过渡效果 ***********/
+            transition: height 0.5s ease-out;
+
+
+            /********** End *************/
+
+        }
+
+        /******* hover 效果 **********/
+        .container:hover .box {
+            height: 50px;
+        }
+
+        /*********** End **************/
+
+    </style>
+</head>
+<body>
+<div class="container">
+    <img src="https://www.educoder.net/attachments/download/eWtOSXBCUlVtKzJBTDdkTXUzdVkydz09" alt="图片">
+    <div class="box">
+        关爱宝宝睡眠健康
+    </div>
+</div>
+</body>
+</html>

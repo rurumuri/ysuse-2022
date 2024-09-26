@@ -1,0 +1,2 @@
+127.0.0.1 - - [26/Jun/2024:14:16:35 +0800] "GET /student_list HTTP/1.1" 200 1759 http-bio-8080-exec-1 609
+127.0.0.1 - - [26/Jun/2024:14:16:37 +0800] "GET /add.jsp HTTP/1.1" 200 495 http-bio-8080-exec-3 40

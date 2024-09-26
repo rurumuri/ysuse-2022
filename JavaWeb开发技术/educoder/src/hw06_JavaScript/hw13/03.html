@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>get element by id</title>
+
+</head>
+<body>
+<div class="diva">
+    <a href="https://www.educoder.net">EduCoder</a>
+    <a href="https://www.facebook.com">FaceBook</a>
+</div>
+<div class="divb">
+    <a href="https://www.twitter.com">Twitter</a>
+    <form name="myForm"></form>
+    <a href="https://www.nudt.edu.cn">NUDT</a>
+</div>
+<p id="pp">this is a text</p>
+<script>
+    var myElement = document.getElementsByTagName("div")[1].getElementsByTagName("a")[1];
+    myElement.innerText="nudt";
+</script>
+</body>
+</html>
