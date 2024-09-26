@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p onclick="handleTimer()">set timer then undo</p>
+<script>
+    var timeId;
+    function timerTask() {
+        console.log("this is timer task");
+    }
+    function handleTimer() {
+        //请在此处编写代码
+        /********** Begin **********/
+
+        timeId = window.setTimeout(timerTask, 2000);
+
+        /********** End **********/
+    }
+</script>
+</body>
+</html>

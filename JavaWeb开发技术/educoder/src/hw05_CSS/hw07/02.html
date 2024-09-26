@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document
+    </title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        @keyframes car{
+            0%{ left: 100px;}
+            33%{ left: 400px;}
+            66%{ left: 400px;}
+            100%{ left: 1000px;}
+        }
+
+        /*********** Begin (创建动画)***********/
+
+        @keyframes light {
+            0% {
+                background: red;
+            }
+            100% {
+                background: green;
+            }
+        }
+
+        /*********** End ***********/
+        .road{
+            height: 200px;
+            border: 3px dashed #ccc;
+            margin-top: 30px;
+            padding: 10px;
+            position: relative;
+        }
+        .car{
+            width: 100px;
+            height: 200px;
+            transform:rotate(90deg);
+            position: absolute;
+            top: 20px;
+            left: 100px;
+            animation: car 6s ease forwards ;
+        }
+        .light{
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            background: red;
+            position: absolute;
+            left: 600px;
+            top: 0px;
+
+            /*********** Begin ***********/
+
+            animation: light 1s linear 2s forwards;
+
+            /*********** End ***********/
+        }
+
+
+    </style>
+</head>
+<body>
+
+<div class="road">
+    <img src="https://www.educoder.net/attachments/download/207224" alt="车" class="car">
+    <div class="light"></div>
+</div>
+
+</body>
+</html>

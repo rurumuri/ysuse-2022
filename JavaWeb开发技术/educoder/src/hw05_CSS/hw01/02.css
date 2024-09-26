@@ -1,0 +1,13 @@
+body {
+    /* ********** BEGIN ********** */
+    /*设置背景图片*/
+    background-image: url("https://educoder.net/api/attachments/Rk9MdEZnbXhETFJDS3RvcEgyejZqUT09")
+
+    /* ********** END ********** */
+}
+
+div {
+    width: 90%;
+    height: 100%;
+    margin: auto;
+}

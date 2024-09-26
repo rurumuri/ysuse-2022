@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+</head>
+<body>
+<ul id="ul1">
+  <li>America</li>
+  <li>Mexio</li>
+</ul>
+<script>
+  var newNode = document.createElement("li");
+  newNode.innerText = "Canada";
+  document.getElementById("ul1").appendChild(newNode);
+
+  var out = document.getElementsByTagName("li")[2];
+  console.log(out.innerText);
+</script>
+</body>
+</html>

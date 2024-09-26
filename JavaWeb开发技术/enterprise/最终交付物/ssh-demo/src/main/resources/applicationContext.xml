@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:tx="http://www.springframework.org/schema/tx"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://www.springframework.org/schema/context
+       http://www.springframework.org/schema/context/spring-context.xsd
+       http://www.springframework.org/schema/tx
+       http://www.springframework.org/schema/tx/spring-tx.xsd
+       http://www.springframework.org/schema/aop
+       http://www.springframework.org/schema/aop/spring-aop.xsd">
+    <!--配置扫描器-->
+    <context:component-scan base-package="com.al_1suyan"></context:component-scan>
+     <!--配置数据源-->
+    <bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource" destroy-method="close">
+        <property name="driverClassName" value="com.mysql.cj.jdbc.Driver" />
+        <property name="url" value="jdbc:mysql://localhost:3306/db?serverTimezone=Asia/Shanghai"></property>
+        <property name="username" value="root"></property>
+        <property name="password" value="41528596"></property>
+        <property name="initialSize" value="1" />
+        <property name="maxActive" value="1" />
+        <property name="maxIdle" value="1" />
+        <property name="maxWait" value="500" />
+        <property name="defaultAutoCommit" value="false" />
+    </bean>
+    <!--配置hibernate的sessionFactory-->
+    <bean id="sessionFactory" class="org.springframework.orm.hibernate4.LocalSessionFactoryBean">
+        <property name="dataSource" ref="dataSource"/>
+        <property name="packagesToScan">
+            <list>
+                <!-- annotaion方式 -->
+                <!--** 表示0到多个的文件名称-->
+                <value>com.**.domain</value>
+            </list>
+        </property>
+        <property name="hibernateProperties">
+            <props>
+                <!-- 指定Hibernate的连接方言 -->
+                <prop key="hibernate.dialect">
+                    org.hibernate.dialect.MySQLDialect
+                </prop>
+                <prop key="hibernate.show_sql">
+                    true
+                </prop>
+                <prop key="hibernate.hbm2ddl.auto">
+                    update
+                </prop>
+            </props>
+        </property>
+    </bean>
+    <!--配置事务管理器-->
+    <bean id="transactionManager"
+          class="org.springframework.orm.hibernate4.HibernateTransactionManager">
+        <property name="sessionFactory" ref="sessionFactory" />
+    </bean>
+    <!--配置事务的切面和切点-->
+    <!--配置事务的切面和切点-->
+    <!-- 定义事务通知 -->
+    <tx:advice id="txAdvice" transaction-manager="transactionManager">
+        <!-- 定义方法的过滤规则 -->
+        <tx:attributes>
+            <!-- 定义所有以add,update,del开头的方法都使用事务 -->
+            <tx:method name="add*" propagation="REQUIRED" />
+            <tx:method name="update*" propagation="REQUIRED" />
+            <tx:method name="del*" propagation="REQUIRED" />
+            <!-- 定义所有的方法是只读的,除了上面定义使用事务的除外 -->
+            <tx:method name="*" read-only="true" />
+        </tx:attributes>
+    </tx:advice>
+    <!-- 定义AOP配置 -->
+    <aop:config>
+        <!-- 定义一个切入点 -->
+        <aop:pointcut id="targetMethod" expression="execution(* com..service.*Service.*(..))" />
+        <!-- 对切入点和事务的通知,进行适配 -->
+        <aop:advisor advice-ref="txAdvice" pointcut-ref="targetMethod" />
+    </aop:config>
+</beans>

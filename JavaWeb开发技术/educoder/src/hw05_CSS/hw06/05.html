@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>立方体</title>
+    <style>
+        .my-container {
+            width: 200px;
+            height: 200px;
+            margin: -170px 0 290px -170px;
+        }
+        .rect-wrap {
+            position: relative;
+            perspective: 1600px;
+        }
+        .container {
+            width: 200px;
+            height: 200px;
+            transform-style: preserve-3d;
+            transform-origin: center center 100px;
+        }
+        .slide {
+            width: 200px;
+            height: 200px;
+            position: absolute;
+            text-align: center;
+            line-height: 200px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.9) inset;
+        }
+        .top {
+            left: 200px;
+            top: 200px;
+            background-size: 100%;
+            transform: rotateX(-90deg);
+            transform-origin: bottom;
+        }
+        .bottom {
+            left: 200px;
+            bottom: -200px;
+            transform: rotateX(90deg);
+            transform-origin: top;
+        }
+        .left {
+
+            top: 200px;
+            /********* Begin **********/
+            left: 200px;
+            transform-origin: right;
+            transform: rotateY(90deg);
+            /********** End ***********/
+            transform-origin: right;
+        }
+        .right {
+            left: 200px;
+            top: 200px;
+            transform: rotateY(-90deg);
+            transform-origin: left;
+        }
+        .front {
+            left: 200px;
+            top: 200px;
+            transform: translateZ(200px);
+        }
+        .back {
+            left: 200px;
+            top: 200px;
+            transform: translateZ(0);
+        }
+    </style>
+</head>
+
+<body class="body">
+<div class="my-container">
+    <div class="rect-wrap">
+        <div class="container">
+            <div class="top slide">上</div>
+            <div class="bottom slide">下</div>
+            <div class="left slide">左</div>
+            <div class="right slide">右</div>
+            <div class="front slide">前</div>
+            <div class="back slide">后</div>
+        </div>
+    </div>
+</div>
+</body>
+
+</html>

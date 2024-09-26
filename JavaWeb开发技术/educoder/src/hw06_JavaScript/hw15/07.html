@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="div1" onclick="click1()">
+    <div id="div2" onclick="click2()">
+        <p id="p" onclick="click3()">click me!</p>
+    </div>
+</div>
+<script>
+    function click1() {
+        console.log("root");
+    }
+    function click2() {
+        //请在此处编写代码
+        /********** Begin **********/
+        event.stopPropagation();
+
+        /********** End **********/
+        console.log("parent");
+    }
+    function click3() {
+        console.log("child");
+    }
+</script>
+</body>
+</html>

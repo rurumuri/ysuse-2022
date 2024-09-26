@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>ID选择器</title>
+    <style type="text/css">
+        /* 元素选择器 */
+        html {
+            background-color: #F0F0F0;
+        }
+        header {
+            padding: 40px;
+            background-color: white;
+        }
+        footer {
+            margin-top: 20px;
+            font-size: 0.6em;
+            color: grey;
+        }
+
+        /* 类选择器 */
+        .main {
+            margin: 10px;
+        }
+        .newsSection {
+            margin-top: 20px;
+            padding: 20px;
+            background-color: white;
+        }
+        /* ********** BEIGN ********** */
+        #chosen {
+            color: red;
+        }
+
+        #news {
+            color: blue;
+        }
+
+        #finance{
+            color: olive;
+        }
+
+        #think {
+            color: green;
+        }
+
+        #life {
+            color: orange;
+        }
+
+
+
+
+
+        /*选择menu元素下的li子元素*/
+        #menu li {
+            float: left;
+            width: 70px;
+            font-size: 1.2em;
+            font-weight: lighter;
+        }
+        /*选择menu元素下的li子元素和li下得a子元素*/
+        #menu li, li a {
+            list-style: none;
+            text-decoration: none;
+        }
+        /* ********** END ********** */
+    </style>
+</head>
+<body>
+<div class="main">
+    <!-- ********** BEGIN ********** -->
+    <header id="menu">
+        <!-- ********** END ********** -->
+        <li><a href="#chosen">精选</a></li>
+        <li><a href="#news">时事</a></li>
+        <li><a href="#finance">财政</a></li>
+        <li><a href="#think">思想</a></li>
+        <li><a href="#life">生活</a></li>
+    </header>
+
+    <div class="newsSection">
+        <section>
+            <h2 id="chosen">精选</h2>
+            <li>精选新闻1</li>
+            <li>精选新闻2</li>
+            <li>精选新闻3</li>
+        </section>
+        <section>
+            <h2 id="news">时事</h2>
+            <li>时事新闻1</li>
+            <li>时事新闻2</li>
+            <li>时事新闻3</li>
+        </section>
+        <section>
+            <h2 id="finance">财政</h2>
+            <li>财政新闻1</li>
+            <li>财政新闻2</li>
+            <li>财政新闻3</li>
+        </section>
+        <section>
+            <h2 id="think">思想</h2>
+            <li>思想新闻1</li>
+            <li>思想新闻2</li>
+            <li>思想新闻3</li>
+        </section>
+        <section>
+            <h2 id="life">生活</h2>
+            <li>生活新闻1</li>
+            <li>生活新闻2</li>
+            <li>生活新闻3</li>
+        </section>
+    </div>
+    <footer>Copyright (c) News Copyright Holder All Rights Reserved.</footer>
+</div>
+
+</body>
+</html>

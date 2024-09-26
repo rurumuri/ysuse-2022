@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        .box{
+            width: 200px;
+            height: 200px;
+            border:2px solid #000;
+            text-align: center;
+            line-height: 200px;
+            font-size: 0;
+            overflow: hidden;
+            margin: 20px;
+        }
+        .box .pic{
+            vertical-align: middle;
+
+            /*********** 过渡效果 ***************/
+            transition: all 0.8s linear;
+
+            /*********** End ******************/
+        }
+        /*********** hover效果 ***************/
+        .box:hover .pic {
+            transform: scale(1.07, 1.07);
+            transform-origin: center center;
+        }
+        /*********** End ***************/
+    </style>
+</head>
+<body>
+<div class="box">
+    <img class="pic" src="https://www.educoder.net/attachments/download/VWpTZENyQm0rRm1hYnZrUHUzY3RQQT09" alt="helloKitty">
+</div>
+</body>
+</html>

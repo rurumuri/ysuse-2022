@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+</head>
+<body>
+<ol id="parent">
+  <a id="old" href="https://www.google.com">Google</a>
+</ol>
+<script>
+  var newChild = document.createElement("a");
+  newChild.innerText = "eduCoder";
+  newChild.href = "https://www.educoder.net";
+  document.getElementById("parent").replaceChild(newChild, document.getElementById("old"));
+</script>
+</body>
+</html>

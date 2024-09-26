@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p onclick="inputName()">Click to input name!</p>
+<script>
+    function inputName() {
+        var result;
+        //请在此处编写代码
+        /********** Begin **********/
+        result = window.prompt("your name", "Xiao Ming");
+        if(result === null) {
+            console.log("name cannot be null");
+        }
+        /********** End **********/
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        .box{
+            margin: 20px;
+            overflow: hidden;
+        }
+        .pic{
+            width: 300px;
+            height: 300px;
+            border-radius: 50%;
+            float: left;
+            /********* 图片过渡效果 ***********/
+            transition: all 2s ease;
+
+
+            /******** End ******************/
+        }
+        .pic:hover{
+            /************ 旋转720度 **********/
+            transform: rotate(720deg);
+
+
+            /************ End ***************/
+
+        }
+        .skew{
+            width:100px;
+            height: 40px;
+            text-align: center;
+            line-height: 40px;
+            background: green;
+            color: #fff;
+            margin: 100px 50px;
+            float: left;
+            /************ 倾斜45度(注意方向） **********/
+            transform: skewX(-45deg);
+
+
+            /************ End **************/
+
+        }
+        .content{
+            transform: skewX(45deg);
+        }
+
+    </style>
+</head>
+<body>
+<div class="box">
+    <img class="pic" src="https://www.educoder.net/attachments/download/ZzladzZyTHpKUmgwZGFYS2tMaXhpZz09" alt="转盘">
+
+    <div class="skew">
+        <div class="content">主页</div>
+    </div>
+
+</div>
+</body>
+</html>
