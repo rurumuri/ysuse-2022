@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+        "http://struts.apache.org/dtds/struts-2.5.dtd">
+<struts>
+    <!--package表示包，name表示包的名字，便于其他的包引用，因为其他的包可以继承这个包-->
+    <!--指定该包的命名空间，默认的是“/”,一个配置文件中可能有相同名字的action，
+    如果配置不同的namespace，那么就可以配置相同的action的名字-->
+    <!-- extends表示继承其他的包，但是我们一般都会继承struts-default-->
+    <package name="student_management" namespace="/" extends="struts-default">
+        <global-allowed-methods>regex:.*</global-allowed-methods>
+        <!--action表示处理的请求配置，name表示请求的url，class表示处理请求的类-->
+        <action name="student_*" class="com.al_1suyan.action.StudentAction" method="{1}">
+            <result name="success">/success.jsp</result>
+            <result name="fail">/fail.jsp</result>
+            <result name="list">/list.jsp</result>
+            <result name="toList" type="redirect">/student_list</result>
+            <result name="add">/add.jsp</result>
+            <result name="update">/update.jsp</result>
+        </action>
+    </package>
+</struts>

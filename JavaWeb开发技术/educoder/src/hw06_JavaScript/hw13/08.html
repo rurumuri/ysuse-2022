@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+<p id="p"></p>
+<form id="form1" method="get" target="https://abc.xyz/def/ghi">This is form</form>
+<a id="a"></a>
+<script>
+    var myElement = document.getElementById("form1");
+    myElement.setAttribute("method", "post");
+    console.log(document.getElementById("form1").method);
+</script>
+</body>
+</html>

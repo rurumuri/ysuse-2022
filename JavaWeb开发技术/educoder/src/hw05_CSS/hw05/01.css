@@ -1,0 +1,25 @@
+table {
+    /* ********** BEGIN ********** */
+
+    border-collapse: collapse;
+    border: 2px solid black;
+
+    /* ********** END ********** */
+}
+
+th,
+td {
+    padding: .5em .75em;
+}
+
+th {
+    /* ********** BEGIN ********** */
+    border: 1px solid grey;
+    /* ********** END ********** */
+}
+
+td {
+    /* ********** BEGIN ********** */
+    border: 1px dotted grey;
+    /* ********** END ********** */
+}

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p onclick="openNew()">Click me to new page!</p>
+<script>
+    function openNew() {
+        //请在此处编写代码
+        /********** Begin **********/
+
+        var loc = window.location;
+        console.log(loc.hostname);
+        loc.href = "https://www.educoder.net/forums/categories/all?order=newest";
+
+        /********** End **********/
+    }
+</script>
+</body>
+</html>

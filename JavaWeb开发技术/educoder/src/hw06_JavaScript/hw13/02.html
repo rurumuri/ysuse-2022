@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>get element by name</title>
+</head>
+<body>
+<img src="" class="myName"/>
+<form class="myName" id="myForm"></form>
+<div class="myName">This is quote</div>
+<p class="myName">This is what you should get</p>
+<script>
+    var myElement = document.getElementsByClassName("myName")[3];
+    myElement.innerText="I changed the text";
+</script>
+</body>
+</html>

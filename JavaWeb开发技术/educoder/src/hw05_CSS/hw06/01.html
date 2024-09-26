@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>
+    </title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        .container{
+            width: 200px;
+            height: 200px;
+            border: 2px solid #000;
+            margin: 30px;
+            float: left;
+            position: relative ;
+        }
+        .box{
+            width: 80px;
+            height: 80px;
+            border: 2px solid green;
+            position: relative;
+            left: 50%;
+            top: 50%;
+            margin-left: -40px;
+            margin-top: -40px;
+
+        }
+
+        .box2{
+            border:2px solid red;
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            /********** Begin ************/
+            transform: translate(-50%, -50%);
+
+
+            /********** End *************/
+        }
+    </style>
+</head>
+<body>
+
+
+<div class="container">
+    <div class="box">
+        宽高固定,</br>
+        水平垂直居中
+
+    </div>
+</div>
+
+<div class="container">
+    <div class="box2">
+        宽高不固定,</br>
+        水平垂直居中
+
+    </div>
+</div>
+</body>
+</html>

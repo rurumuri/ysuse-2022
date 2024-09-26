@@ -1,0 +1,116 @@
+body {
+    /*背景渐变*/
+    background: -webkit-linear-gradient(left, #7ECABA, #E2FCCB);
+    /* Safari 5.1 - 6.0 */
+    background: -o-linear-gradient(right, #7ECABA, #E2FCCB);
+    /* Opera 11.1 - 12.0 */
+    background: -moz-linear-gradient(right, #7ECABA, #E2FCCB);
+    /* Firefox 3.6 - 15 */
+    background: linear-gradient(to right, #7ECABA, #E2FCCB);
+    /* 标准的语法 */
+    font: 100% PingFang SC, Verdana, Helvetica Neue, Microsoft Yahei, Hiragino Sans GB, Microsoft Sans Serif, WenQuanYi Micro Hei, sans-serif;
+    /*居中页面*/
+    width: 45em;
+    margin: 0 auto;
+}
+
+h1,
+h2 {
+    /* ********** BEGIN ***********/
+    font-family: PingFang SC, Verdana, Helvetica Neue, Microsoft Yahei, Hiragino Sans GB, Microsoft Sans Serif, WenQuanYi Micro Hei, sans-serif;
+    /* ********** END ***********/
+}
+
+h1 {
+    /* ********** BEGIN ***********/
+    font-size: 2.1875em;
+
+    /* ********** END ************/
+}
+
+h2 {
+    background-color: #eaebef;
+    /* ********** BEGIN ***********/
+    font-size: 1.75em;
+    color: #7d717c;
+    /* ********** END ************/
+}
+
+h3 {
+    background-color: white;
+    /* ********** BEGIN ***********/
+    font-size: 1.25em;
+    color: green;
+    /* ********** END ************/
+    padding-left: 10px;
+}
+
+hr {
+    height: 1px;
+    border: none;
+    border-top: 2px dashed #88b2d2;
+}
+
+footer {
+    margin: 10px auto;
+}
+
+/* CONTENT
+----------------------------------- */
+
+.architect {
+    background-color: #fff;
+    padding: 1.5em 1.75em;
+}
+
+/* :::: Intro ::::: */
+
+.intro {
+    background-color: #888888;
+    /* ********** BEGIN ***********/
+    color: #fefefe;
+    /* ********** END ************/
+    padding: 1px 1.875em .7em;
+}
+
+.intro .subhead {
+    /* ********** BEGIN ***********/
+    font-size: 1.125em;
+    /* ********** END ************/
+}
+
+.intro p {
+    font-size: 1.0625em;
+}
+
+/* :::: chapter Descriptions ::::: */
+
+.chapter p {
+    font-size: .9375em;
+}
+
+img {
+    border-radius: 8px;
+}
+
+/* :::: Links :::: */
+
+a:link {
+    color: #e10000;
+}
+
+a:visited {
+    color: #b44f4f;
+}
+
+a:hover {
+    color: #f00;
+}
+
+.intro a {
+    color: #fdb09d;
+}
+
+.intro a:hover {
+    color: #fec4b6;
+}

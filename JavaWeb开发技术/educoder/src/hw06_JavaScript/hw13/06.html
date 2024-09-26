@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+<div id="div1">
+    <div class="cl1">
+        <p>文本</p>
+        <a>超链接</a>
+    </div>
+    <div class="cl2">
+        <select>
+            <option>红</option>
+            <option>黄</option>
+            <option>蓝</option>
+        </select>
+    </div>
+</div>
+<script>
+    // var cl2 = document.getElementById("div1").lastElementChild;
+    // var myElement = cl2.firstElementChild.lastElementChild
+    var myElement = document.getElementsByClassName("cl2")[0].firstElementChild.children[1];
+
+    myElement.innerText = "绿";
+</script>
+</body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<button id="button1" onclick="listenButton1()">按钮1</button>
+<button id="button2">按钮2</button>
+<button id="button3">按钮3</button>
+<script>
+    function listenButton1() {
+        console.log("监听button1");
+    }
+    function listenButton2() {
+        console.log("监听button2");
+    }
+    function listenButton3() {
+        console.log("监听button3");
+    }
+    //请在此处编写代码
+    /********** Begin **********/
+    button2 = document.getElementById("button2");
+    // button2.setAttribute("onClick", listenButton2);
+    button2.onclick = listenButton2;
+
+    button3 = document.getElementById("button3");
+    button3.addEventListener("click", listenButton3);
+    /********** End **********/
+</script>
+</body>
+</html>

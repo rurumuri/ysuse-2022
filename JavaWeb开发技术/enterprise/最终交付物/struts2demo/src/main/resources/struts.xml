@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+        "http://struts.apache.org/dtds/struts-2.5.dtd">
+<struts>
+    <!--package表示包，name表示包的名字，便于其他的包引用，因为其他的包可以继承这个包-->
+    <!--指定该包的命名空间，默认的是“/”,一个配置文件中可能有相同名字的action，
+    如果配置不同的namespace，那么就可以配置相同的action的名字-->
+    <!-- extends表示继承其他的包，但是我们一般都会继承struts-default-->
+    <package name="hello" namespace="/" extends="struts-default">
+        <!--action表示处理的请求配置，name表示请求的url，class表示处理请求的类-->
+        <action name="hello" class="com.al_1suyan.action.HelloAction">
+            <!--result 表示结果，例如结果返回 /hello.jsp资源-->
+            <result name="hello">/hello.jsp</result>
+        </action>
+        <action name="login" class="com.al_1suyan.action.LoginAction">
+            <result name="success">/success.jsp</result>
+            <result name="fail">/fail.jsp</result>
+        </action>
+    </package>
+</struts>
