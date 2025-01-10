@@ -1,0 +1,267 @@
+[
+    {
+        "name": "iPhone 13",
+        "type": "电子产品",
+        "sales": 150
+    },
+    {
+        "name": "Samsung Galaxy S21",
+        "type": "电子产品",
+        "sales": 200
+    },
+    {
+        "name": "MacBook Pro",
+        "type": "电子产品",
+        "sales": 130
+    },
+    {
+        "name": "Sony WH-1000XM4",
+        "type": "电子产品",
+        "sales": 180
+    },
+    {
+        "name": "Dell XPS 13",
+        "type": "电子产品",
+        "sales": 160
+    },
+    {
+        "name": "IKEA 沙发",
+        "type": "家居用品",
+        "sales": 220
+    },
+    {
+        "name": "Dyson 吸尘器",
+        "type": "家居用品",
+        "sales": 90
+    },
+    {
+        "name": "米家空气净化器",
+        "type": "家居用品",
+        "sales": 140
+    },
+    {
+        "name": "宜家书桌",
+        "type": "家居用品",
+        "sales": 130
+    },
+    {
+        "name": "苏泊尔锅具",
+        "type": "家居用品",
+        "sales": 200
+    },
+    {
+        "name": "Levi's 牛仔裤",
+        "type": "服装",
+        "sales": 300
+    },
+    {
+        "name": "Adidas 运动鞋",
+        "type": "服装",
+        "sales": 250
+    },
+    {
+        "name": "Zara 连衣裙",
+        "type": "服装",
+        "sales": 150
+    },
+    {
+        "name": "Nike T恤",
+        "type": "服装",
+        "sales": 180
+    },
+    {
+        "name": "H&M 外套",
+        "type": "服装",
+        "sales": 220
+    },
+    {
+        "name": "百事可乐",
+        "type": "食品",
+        "sales": 400
+    },
+    {
+        "name": "可口可乐",
+        "type": "食品",
+        "sales": 350
+    },
+    {
+        "name": "薯片",
+        "type": "食品",
+        "sales": 300
+    },
+    {
+        "name": "巧克力",
+        "type": "食品",
+        "sales": 450
+    },
+    {
+        "name": "方便面",
+        "type": "食品",
+        "sales": 500
+    },
+    {
+        "name": "耐克篮球",
+        "type": "运动用品",
+        "sales": 120
+    },
+    {
+        "name": "阿迪达斯足球",
+        "type": "运动用品",
+        "sales": 150
+    },
+    {
+        "name": "健身器材",
+        "type": "运动用品",
+        "sales": 180
+    },
+    {
+        "name": "瑜伽垫",
+        "type": "运动用品",
+        "sales": 200
+    },
+    {
+        "name": "运动手环",
+        "type": "运动用品",
+        "sales": 170
+    },
+    {
+        "name": "护肤霜",
+        "type": "护肤品",
+        "sales": 220
+    },
+    {
+        "name": "面膜",
+        "type": "护肤品",
+        "sales": 250
+    },
+    {
+        "name": "洁面乳",
+        "type": "护肤品",
+        "sales": 300
+    },
+    {
+        "name": "防晒霜",
+        "type": "护肤品",
+        "sales": 280
+    },
+    {
+        "name": "精华液",
+        "type": "护肤品",
+        "sales": 260
+    },
+    {
+        "name": "毛绒玩具",
+        "type": "玩具",
+        "sales": 90
+    },
+    {
+        "name": "积木玩具",
+        "type": "玩具",
+        "sales": 110
+    },
+    {
+        "name": "遥控汽车",
+        "type": "玩具",
+        "sales": 130
+    },
+    {
+        "name": "拼图",
+        "type": "玩具",
+        "sales": 140
+    },
+    {
+        "name": "娃娃",
+        "type": "玩具",
+        "sales": 120
+    },
+    {
+        "name": "小说",
+        "type": "图书",
+        "sales": 80
+    },
+    {
+        "name": "教科书",
+        "type": "图书",
+        "sales": 100
+    },
+    {
+        "name": "漫画书",
+        "type": "图书",
+        "sales": 90
+    },
+    {
+        "name": "儿童读物",
+        "type": "图书",
+        "sales": 70
+    },
+    {
+        "name": "散文集",
+        "type": "图书",
+        "sales": 60
+    },
+    {
+        "name": "小米平板",
+        "type": "电子产品",
+        "sales": 210
+    },
+    {
+        "name": "华为笔记本",
+        "type": "电子产品",
+        "sales": 130
+    },
+    {
+        "name": "格力空调",
+        "type": "家居用品",
+        "sales": 300
+    },
+    {
+        "name": "优衣库T恤",
+        "type": "服装",
+        "sales": 170
+    },
+    {
+        "name": "牛肉干",
+        "type": "食品",
+        "sales": 320
+    },
+    {
+        "name": "健身房会员卡",
+        "type": "运动用品",
+        "sales": 140
+    },
+    {
+        "name": "面霜",
+        "type": "护肤品",
+        "sales": 230
+    },
+    {
+        "name": "儿童玩具车",
+        "type": "玩具",
+        "sales": 150
+    },
+    {
+        "name": "编程书",
+        "type": "图书",
+        "sales": 120
+    },
+    {
+        "name": "三星电视",
+        "type": "电子产品",
+        "sales": 160
+    },
+    {
+        "name": "宜家餐桌",
+        "type": "家居用品",
+        "sales": 190
+    },
+    {
+        "name": "阿玛尼衬衫",
+        "type": "服装",
+        "sales": 280
+    },
+    {
+        "name": "冰淇淋",
+        "type": "食品",
+        "sales": 370
+    }
+]
