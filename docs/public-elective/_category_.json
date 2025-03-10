@@ -1,0 +1,8 @@
+{
+  "label": "公共选修课",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Public elective courses"
+  }
+}
