@@ -1,8 +1,0 @@
-E:\文件\Projects\#PTA\Se01C#\软件工程2022级1,2,3班《程序设计基础》期末考试第一次模拟题\2-4 求矩阵周边元素的和\bin\Debug\2-4 求矩阵周边元素的和.exe.config
-E:\文件\Projects\#PTA\Se01C#\软件工程2022级1,2,3班《程序设计基础》期末考试第一次模拟题\2-4 求矩阵周边元素的和\bin\Debug\2-4 求矩阵周边元素的和.exe
-E:\文件\Projects\#PTA\Se01C#\软件工程2022级1,2,3班《程序设计基础》期末考试第一次模拟题\2-4 求矩阵周边元素的和\bin\Debug\2-4 求矩阵周边元素的和.pdb
-E:\文件\Projects\#PTA\Se01C#\软件工程2022级1,2,3班《程序设计基础》期末考试第一次模拟题\2-4 求矩阵周边元素的和\obj\Debug\2-4 求矩阵周边元素的和.csproj.AssemblyReference.cache
-E:\文件\Projects\#PTA\Se01C#\软件工程2022级1,2,3班《程序设计基础》期末考试第一次模拟题\2-4 求矩阵周边元素的和\obj\Debug\2-4 求矩阵周边元素的和.csproj.SuggestedBindingRedirects.cache
-E:\文件\Projects\#PTA\Se01C#\软件工程2022级1,2,3班《程序设计基础》期末考试第一次模拟题\2-4 求矩阵周边元素的和\obj\Debug\2-4 求矩阵周边元素的和.csproj.CoreCompileInputs.cache
-E:\文件\Projects\#PTA\Se01C#\软件工程2022级1,2,3班《程序设计基础》期末考试第一次模拟题\2-4 求矩阵周边元素的和\obj\Debug\2-4 求矩阵周边元素的和.exe
-E:\文件\Projects\#PTA\Se01C#\软件工程2022级1,2,3班《程序设计基础》期末考试第一次模拟题\2-4 求矩阵周边元素的和\obj\Debug\2-4 求矩阵周边元素的和.pdb

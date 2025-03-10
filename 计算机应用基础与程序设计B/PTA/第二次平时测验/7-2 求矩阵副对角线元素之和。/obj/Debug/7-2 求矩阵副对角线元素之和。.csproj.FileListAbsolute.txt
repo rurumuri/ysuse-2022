@@ -1,8 +1,0 @@
-E:\文件\Projects\CwC\@PTA\2022级软件工程1,2,3班第二次平时测验\7-2 求矩阵副对角线元素之和。\bin\Debug\7-2 求矩阵副对角线元素之和。.exe.config
-E:\文件\Projects\CwC\@PTA\2022级软件工程1,2,3班第二次平时测验\7-2 求矩阵副对角线元素之和。\bin\Debug\7-2 求矩阵副对角线元素之和。.exe
-E:\文件\Projects\CwC\@PTA\2022级软件工程1,2,3班第二次平时测验\7-2 求矩阵副对角线元素之和。\bin\Debug\7-2 求矩阵副对角线元素之和。.pdb
-E:\文件\Projects\CwC\@PTA\2022级软件工程1,2,3班第二次平时测验\7-2 求矩阵副对角线元素之和。\obj\Debug\7-2 求矩阵副对角线元素之和。.csproj.AssemblyReference.cache
-E:\文件\Projects\CwC\@PTA\2022级软件工程1,2,3班第二次平时测验\7-2 求矩阵副对角线元素之和。\obj\Debug\7-2 求矩阵副对角线元素之和。.csproj.SuggestedBindingRedirects.cache
-E:\文件\Projects\CwC\@PTA\2022级软件工程1,2,3班第二次平时测验\7-2 求矩阵副对角线元素之和。\obj\Debug\7-2 求矩阵副对角线元素之和。.csproj.CoreCompileInputs.cache
-E:\文件\Projects\CwC\@PTA\2022级软件工程1,2,3班第二次平时测验\7-2 求矩阵副对角线元素之和。\obj\Debug\7-2 求矩阵副对角线元素之和。.exe
-E:\文件\Projects\CwC\@PTA\2022级软件工程1,2,3班第二次平时测验\7-2 求矩阵副对角线元素之和。\obj\Debug\7-2 求矩阵副对角线元素之和。.pdb

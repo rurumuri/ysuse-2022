@@ -1,8 +1,0 @@
-E:\文件\Projects\#PTA\Se01C#\2022软件工程1,2,3班第二次期末模拟题（往年真题）\1-4 尾号限行\bin\Debug\1-4 尾号限行.exe.config
-E:\文件\Projects\#PTA\Se01C#\2022软件工程1,2,3班第二次期末模拟题（往年真题）\1-4 尾号限行\bin\Debug\1-4 尾号限行.exe
-E:\文件\Projects\#PTA\Se01C#\2022软件工程1,2,3班第二次期末模拟题（往年真题）\1-4 尾号限行\bin\Debug\1-4 尾号限行.pdb
-E:\文件\Projects\#PTA\Se01C#\2022软件工程1,2,3班第二次期末模拟题（往年真题）\1-4 尾号限行\obj\Debug\1-4 尾号限行.csproj.AssemblyReference.cache
-E:\文件\Projects\#PTA\Se01C#\2022软件工程1,2,3班第二次期末模拟题（往年真题）\1-4 尾号限行\obj\Debug\1-4 尾号限行.csproj.SuggestedBindingRedirects.cache
-E:\文件\Projects\#PTA\Se01C#\2022软件工程1,2,3班第二次期末模拟题（往年真题）\1-4 尾号限行\obj\Debug\1-4 尾号限行.csproj.CoreCompileInputs.cache
-E:\文件\Projects\#PTA\Se01C#\2022软件工程1,2,3班第二次期末模拟题（往年真题）\1-4 尾号限行\obj\Debug\1-4 尾号限行.exe
-E:\文件\Projects\#PTA\Se01C#\2022软件工程1,2,3班第二次期末模拟题（往年真题）\1-4 尾号限行\obj\Debug\1-4 尾号限行.pdb

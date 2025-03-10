@@ -1,0 +1,8 @@
+{
+  "label": "专业选修课",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Subject elective courses"
+  }
+}

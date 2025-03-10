@@ -1,8 +1,0 @@
-D:\#Files\Projects\@PTA\Cs实验三循环结构程序设计（6学时）（22软件1-3班）\7-2 判断回文串\bin\Debug\7-2 判断回文串.exe.config
-D:\#Files\Projects\@PTA\Cs实验三循环结构程序设计（6学时）（22软件1-3班）\7-2 判断回文串\bin\Debug\7-2 判断回文串.exe
-D:\#Files\Projects\@PTA\Cs实验三循环结构程序设计（6学时）（22软件1-3班）\7-2 判断回文串\bin\Debug\7-2 判断回文串.pdb
-D:\#Files\Projects\@PTA\Cs实验三循环结构程序设计（6学时）（22软件1-3班）\7-2 判断回文串\obj\Debug\7-2 判断回文串.csproj.AssemblyReference.cache
-D:\#Files\Projects\@PTA\Cs实验三循环结构程序设计（6学时）（22软件1-3班）\7-2 判断回文串\obj\Debug\7-2 判断回文串.csproj.SuggestedBindingRedirects.cache
-D:\#Files\Projects\@PTA\Cs实验三循环结构程序设计（6学时）（22软件1-3班）\7-2 判断回文串\obj\Debug\7-2 判断回文串.csproj.CoreCompileInputs.cache
-D:\#Files\Projects\@PTA\Cs实验三循环结构程序设计（6学时）（22软件1-3班）\7-2 判断回文串\obj\Debug\7-2 判断回文串.exe
-D:\#Files\Projects\@PTA\Cs实验三循环结构程序设计（6学时）（22软件1-3班）\7-2 判断回文串\obj\Debug\7-2 判断回文串.pdb

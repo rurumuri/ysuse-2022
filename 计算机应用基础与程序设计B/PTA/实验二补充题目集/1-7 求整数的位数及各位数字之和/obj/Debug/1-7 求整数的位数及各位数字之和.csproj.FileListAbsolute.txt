@@ -1,8 +1,0 @@
-D:\#Files\Projects\@PTA\Csharp实验二补充题目集（22软件1-3班）（本题目集不写入实验报告)\1-7 求整数的位数及各位数字之和\bin\Debug\1-7 求整数的位数及各位数字之和.exe.config
-D:\#Files\Projects\@PTA\Csharp实验二补充题目集（22软件1-3班）（本题目集不写入实验报告)\1-7 求整数的位数及各位数字之和\bin\Debug\1-7 求整数的位数及各位数字之和.exe
-D:\#Files\Projects\@PTA\Csharp实验二补充题目集（22软件1-3班）（本题目集不写入实验报告)\1-7 求整数的位数及各位数字之和\bin\Debug\1-7 求整数的位数及各位数字之和.pdb
-D:\#Files\Projects\@PTA\Csharp实验二补充题目集（22软件1-3班）（本题目集不写入实验报告)\1-7 求整数的位数及各位数字之和\obj\Debug\1-7 求整数的位数及各位数字之和.csproj.AssemblyReference.cache
-D:\#Files\Projects\@PTA\Csharp实验二补充题目集（22软件1-3班）（本题目集不写入实验报告)\1-7 求整数的位数及各位数字之和\obj\Debug\1-7 求整数的位数及各位数字之和.csproj.SuggestedBindingRedirects.cache
-D:\#Files\Projects\@PTA\Csharp实验二补充题目集（22软件1-3班）（本题目集不写入实验报告)\1-7 求整数的位数及各位数字之和\obj\Debug\1-7 求整数的位数及各位数字之和.csproj.CoreCompileInputs.cache
-D:\#Files\Projects\@PTA\Csharp实验二补充题目集（22软件1-3班）（本题目集不写入实验报告)\1-7 求整数的位数及各位数字之和\obj\Debug\1-7 求整数的位数及各位数字之和.exe
-D:\#Files\Projects\@PTA\Csharp实验二补充题目集（22软件1-3班）（本题目集不写入实验报告)\1-7 求整数的位数及各位数字之和\obj\Debug\1-7 求整数的位数及各位数字之和.pdb
