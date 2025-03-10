@@ -27,4 +27,4 @@
 
 ## 参考资料
 
-> TODO
+[static/course/201S2000-JavaWeb开发技术](https://github.com/rurumuri/ysuse-2022/tree/master/static/course/201S2000-JavaWeb%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF)

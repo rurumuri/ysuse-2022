@@ -22,4 +22,4 @@ N/A
 
 ## 参考资料
 
-> TODO
+[static/course/041G0004-Android程序设计基础](https://github.com/rurumuri/ysuse-2022/tree/master/static/course/041G0004-Android%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80)
