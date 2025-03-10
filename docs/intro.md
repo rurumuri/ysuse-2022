@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # YSUSE Docs
 
+![nina](../static/img/nina.png)
+
 燕山大学*信息科学与工程学院*软件工程专业的专业课相关资料。目前资料和信息均来自 2022 级课程，部分内容可能具有时效性。关于专业完整的培养方案请在[校一网通办系统](https://jwxt.ysu.edu.cn/jwapp)查询。
 
 受 [西工大计算机专业课程攻略](https://github.com/npu-cs/Course-Material)、[csdiy](https://csdiy.wiki/) 等相关项目启发，创立了本项目。
