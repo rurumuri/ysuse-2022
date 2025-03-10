@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ![nina](../static/img/nina.png)
 
-燕山大学*信息科学与工程学院*软件工程专业的专业课相关资料。目前资料和信息均来自 2022 级课程，部分内容可能具有时效性。关于专业完整的培养方案请在[校一网通办系统](https://jwxt.ysu.edu.cn/jwapp)查询。
+燕山大学*信息科学与工程学院*软件工程专业的专业课相关资料。目前资料和信息均来自 2022 级课程，部分内容可能具有时效性。关于专业完整的培养方案请在 [校一网通办系统](https://ehall.ysu.edu.cn/) 查询。 
 
 受 [西工大计算机专业课程攻略](https://github.com/npu-cs/Course-Material)、[csdiy](https://csdiy.wiki/) 等相关项目启发，创立了本项目。
 
@@ -29,7 +29,7 @@ sidebar_position: 1
 
 :::warning 注意
 
-仅当你有了解[学术诚信（什么事情能做, 什么不能）](http://integrity.mit.edu/)，并且**知道自己在做什么**的情况下，才可以参考和使用我的作业、实验报告和项目代码等成果。
+仅当你有了解 [学术诚信（什么事情能做, 什么不能）](http://integrity.mit.edu/)，并且**知道自己在做什么**的情况下，才可以参考和使用我的作业、实验报告和项目代码等成果。
 
 :::
 
@@ -93,7 +93,17 @@ sidebar_position: 1
 
 ## 贡献指南
 
-[贡献指南](./contributing.md)
+参考 [贡献指南](./contributing.md)
+
+## 许可
+
+由贡献者编写部分的许可如下：
+
+[CC-BY-NC-SA：署名-非商业性使用-相同方式共享](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+
+> 资料仅供参考，请自己判断其适用性。
+
+其他部分的版权归属于其各自的作者。
 
 ## 后记
 
