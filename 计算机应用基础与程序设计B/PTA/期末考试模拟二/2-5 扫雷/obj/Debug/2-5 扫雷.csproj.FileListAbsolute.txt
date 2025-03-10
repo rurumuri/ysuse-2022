@@ -1,8 +1,0 @@
-E:\文件\Projects\#PTA\Se01C#\2022软件工程1,2,3班第二次期末模拟题（往年真题）\2-5 扫雷\bin\Debug\2-5 扫雷.exe.config
-E:\文件\Projects\#PTA\Se01C#\2022软件工程1,2,3班第二次期末模拟题（往年真题）\2-5 扫雷\bin\Debug\2-5 扫雷.exe
-E:\文件\Projects\#PTA\Se01C#\2022软件工程1,2,3班第二次期末模拟题（往年真题）\2-5 扫雷\bin\Debug\2-5 扫雷.pdb
-E:\文件\Projects\#PTA\Se01C#\2022软件工程1,2,3班第二次期末模拟题（往年真题）\2-5 扫雷\obj\Debug\2-5 扫雷.csproj.AssemblyReference.cache
-E:\文件\Projects\#PTA\Se01C#\2022软件工程1,2,3班第二次期末模拟题（往年真题）\2-5 扫雷\obj\Debug\2-5 扫雷.csproj.SuggestedBindingRedirects.cache
-E:\文件\Projects\#PTA\Se01C#\2022软件工程1,2,3班第二次期末模拟题（往年真题）\2-5 扫雷\obj\Debug\2-5 扫雷.csproj.CoreCompileInputs.cache
-E:\文件\Projects\#PTA\Se01C#\2022软件工程1,2,3班第二次期末模拟题（往年真题）\2-5 扫雷\obj\Debug\2-5 扫雷.exe
-E:\文件\Projects\#PTA\Se01C#\2022软件工程1,2,3班第二次期末模拟题（往年真题）\2-5 扫雷\obj\Debug\2-5 扫雷.pdb

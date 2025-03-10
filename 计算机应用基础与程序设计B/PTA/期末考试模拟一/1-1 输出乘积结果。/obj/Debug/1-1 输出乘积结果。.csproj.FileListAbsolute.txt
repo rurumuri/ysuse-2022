@@ -1,8 +1,0 @@
-E:\文件\Projects\#PTA\Se01C#\软件工程2022级1,2,3班《程序设计基础》期末考试第一次模拟题\1-1 输出乘积结果。\bin\Debug\1-1 输出乘积结果。.exe.config
-E:\文件\Projects\#PTA\Se01C#\软件工程2022级1,2,3班《程序设计基础》期末考试第一次模拟题\1-1 输出乘积结果。\bin\Debug\1-1 输出乘积结果。.exe
-E:\文件\Projects\#PTA\Se01C#\软件工程2022级1,2,3班《程序设计基础》期末考试第一次模拟题\1-1 输出乘积结果。\bin\Debug\1-1 输出乘积结果。.pdb
-E:\文件\Projects\#PTA\Se01C#\软件工程2022级1,2,3班《程序设计基础》期末考试第一次模拟题\1-1 输出乘积结果。\obj\Debug\1-1 输出乘积结果。.csproj.AssemblyReference.cache
-E:\文件\Projects\#PTA\Se01C#\软件工程2022级1,2,3班《程序设计基础》期末考试第一次模拟题\1-1 输出乘积结果。\obj\Debug\1-1 输出乘积结果。.csproj.SuggestedBindingRedirects.cache
-E:\文件\Projects\#PTA\Se01C#\软件工程2022级1,2,3班《程序设计基础》期末考试第一次模拟题\1-1 输出乘积结果。\obj\Debug\1-1 输出乘积结果。.csproj.CoreCompileInputs.cache
-E:\文件\Projects\#PTA\Se01C#\软件工程2022级1,2,3班《程序设计基础》期末考试第一次模拟题\1-1 输出乘积结果。\obj\Debug\1-1 输出乘积结果。.exe
-E:\文件\Projects\#PTA\Se01C#\软件工程2022级1,2,3班《程序设计基础》期末考试第一次模拟题\1-1 输出乘积结果。\obj\Debug\1-1 输出乘积结果。.pdb
