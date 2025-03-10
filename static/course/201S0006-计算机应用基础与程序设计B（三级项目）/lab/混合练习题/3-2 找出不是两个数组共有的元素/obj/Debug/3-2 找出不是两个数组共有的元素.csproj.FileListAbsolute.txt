@@ -1,0 +1,8 @@
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\3-2 找出不是两个数组共有的元素\bin\Debug\3-2 找出不是两个数组共有的元素.exe.config
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\3-2 找出不是两个数组共有的元素\bin\Debug\3-2 找出不是两个数组共有的元素.exe
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\3-2 找出不是两个数组共有的元素\bin\Debug\3-2 找出不是两个数组共有的元素.pdb
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\3-2 找出不是两个数组共有的元素\obj\Debug\3-2 找出不是两个数组共有的元素.csproj.AssemblyReference.cache
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\3-2 找出不是两个数组共有的元素\obj\Debug\3-2 找出不是两个数组共有的元素.csproj.SuggestedBindingRedirects.cache
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\3-2 找出不是两个数组共有的元素\obj\Debug\3-2 找出不是两个数组共有的元素.csproj.CoreCompileInputs.cache
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\3-2 找出不是两个数组共有的元素\obj\Debug\3-2 找出不是两个数组共有的元素.exe
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\3-2 找出不是两个数组共有的元素\obj\Debug\3-2 找出不是两个数组共有的元素.pdb

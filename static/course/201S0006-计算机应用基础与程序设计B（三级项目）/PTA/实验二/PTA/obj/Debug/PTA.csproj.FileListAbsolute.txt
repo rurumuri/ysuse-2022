@@ -1,8 +1,0 @@
-D:\#Files\Projects\VS\C#\@PTA\2022级软件工程1,2,3班第二次实验题\PTA\bin\Debug\PTA.exe.config
-D:\#Files\Projects\VS\C#\@PTA\2022级软件工程1,2,3班第二次实验题\PTA\bin\Debug\PTA.exe
-D:\#Files\Projects\VS\C#\@PTA\2022级软件工程1,2,3班第二次实验题\PTA\bin\Debug\PTA.pdb
-D:\#Files\Projects\VS\C#\@PTA\2022级软件工程1,2,3班第二次实验题\PTA\obj\Debug\PTA.csproj.AssemblyReference.cache
-D:\#Files\Projects\VS\C#\@PTA\2022级软件工程1,2,3班第二次实验题\PTA\obj\Debug\PTA.csproj.SuggestedBindingRedirects.cache
-D:\#Files\Projects\VS\C#\@PTA\2022级软件工程1,2,3班第二次实验题\PTA\obj\Debug\PTA.csproj.CoreCompileInputs.cache
-D:\#Files\Projects\VS\C#\@PTA\2022级软件工程1,2,3班第二次实验题\PTA\obj\Debug\PTA.exe
-D:\#Files\Projects\VS\C#\@PTA\2022级软件工程1,2,3班第二次实验题\PTA\obj\Debug\PTA.pdb

@@ -1,0 +1,8 @@
+D:\#Files\Projects\@PTA\2022级软件工程1,2,3班第四次实验题\4-4 猴子选大王\bin\Debug\4-4 猴子选大王.exe.config
+D:\#Files\Projects\@PTA\2022级软件工程1,2,3班第四次实验题\4-4 猴子选大王\bin\Debug\4-4 猴子选大王.exe
+D:\#Files\Projects\@PTA\2022级软件工程1,2,3班第四次实验题\4-4 猴子选大王\bin\Debug\4-4 猴子选大王.pdb
+D:\#Files\Projects\@PTA\2022级软件工程1,2,3班第四次实验题\4-4 猴子选大王\obj\Debug\4-4 猴子选大王.csproj.AssemblyReference.cache
+D:\#Files\Projects\@PTA\2022级软件工程1,2,3班第四次实验题\4-4 猴子选大王\obj\Debug\4-4 猴子选大王.csproj.SuggestedBindingRedirects.cache
+D:\#Files\Projects\@PTA\2022级软件工程1,2,3班第四次实验题\4-4 猴子选大王\obj\Debug\4-4 猴子选大王.csproj.CoreCompileInputs.cache
+D:\#Files\Projects\@PTA\2022级软件工程1,2,3班第四次实验题\4-4 猴子选大王\obj\Debug\4-4 猴子选大王.exe
+D:\#Files\Projects\@PTA\2022级软件工程1,2,3班第四次实验题\4-4 猴子选大王\obj\Debug\4-4 猴子选大王.pdb

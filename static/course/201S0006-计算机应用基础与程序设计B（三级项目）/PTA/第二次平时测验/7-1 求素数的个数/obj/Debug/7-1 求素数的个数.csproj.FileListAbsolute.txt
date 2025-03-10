@@ -1,8 +1,0 @@
-E:\文件\Projects\CwC\@PTA\2022级软件工程1,2,3班第二次平时测验\7-1 求素数的个数\bin\Debug\7-1 求素数的个数.exe.config
-E:\文件\Projects\CwC\@PTA\2022级软件工程1,2,3班第二次平时测验\7-1 求素数的个数\bin\Debug\7-1 求素数的个数.exe
-E:\文件\Projects\CwC\@PTA\2022级软件工程1,2,3班第二次平时测验\7-1 求素数的个数\bin\Debug\7-1 求素数的个数.pdb
-E:\文件\Projects\CwC\@PTA\2022级软件工程1,2,3班第二次平时测验\7-1 求素数的个数\obj\Debug\7-1 求素数的个数.csproj.AssemblyReference.cache
-E:\文件\Projects\CwC\@PTA\2022级软件工程1,2,3班第二次平时测验\7-1 求素数的个数\obj\Debug\7-1 求素数的个数.csproj.SuggestedBindingRedirects.cache
-E:\文件\Projects\CwC\@PTA\2022级软件工程1,2,3班第二次平时测验\7-1 求素数的个数\obj\Debug\7-1 求素数的个数.csproj.CoreCompileInputs.cache
-E:\文件\Projects\CwC\@PTA\2022级软件工程1,2,3班第二次平时测验\7-1 求素数的个数\obj\Debug\7-1 求素数的个数.exe
-E:\文件\Projects\CwC\@PTA\2022级软件工程1,2,3班第二次平时测验\7-1 求素数的个数\obj\Debug\7-1 求素数的个数.pdb

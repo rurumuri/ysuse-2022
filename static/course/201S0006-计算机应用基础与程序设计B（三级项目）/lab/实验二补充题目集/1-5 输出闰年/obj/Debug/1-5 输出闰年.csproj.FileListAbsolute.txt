@@ -1,0 +1,8 @@
+D:\#Files\Projects\@PTA\Csharp实验二补充题目集（22软件1-3班）（本题目集不写入实验报告)\1-5 输出闰年\bin\Debug\1-5 输出闰年.exe.config
+D:\#Files\Projects\@PTA\Csharp实验二补充题目集（22软件1-3班）（本题目集不写入实验报告)\1-5 输出闰年\bin\Debug\1-5 输出闰年.exe
+D:\#Files\Projects\@PTA\Csharp实验二补充题目集（22软件1-3班）（本题目集不写入实验报告)\1-5 输出闰年\bin\Debug\1-5 输出闰年.pdb
+D:\#Files\Projects\@PTA\Csharp实验二补充题目集（22软件1-3班）（本题目集不写入实验报告)\1-5 输出闰年\obj\Debug\1-5 输出闰年.csproj.AssemblyReference.cache
+D:\#Files\Projects\@PTA\Csharp实验二补充题目集（22软件1-3班）（本题目集不写入实验报告)\1-5 输出闰年\obj\Debug\1-5 输出闰年.csproj.SuggestedBindingRedirects.cache
+D:\#Files\Projects\@PTA\Csharp实验二补充题目集（22软件1-3班）（本题目集不写入实验报告)\1-5 输出闰年\obj\Debug\1-5 输出闰年.csproj.CoreCompileInputs.cache
+D:\#Files\Projects\@PTA\Csharp实验二补充题目集（22软件1-3班）（本题目集不写入实验报告)\1-5 输出闰年\obj\Debug\1-5 输出闰年.exe
+D:\#Files\Projects\@PTA\Csharp实验二补充题目集（22软件1-3班）（本题目集不写入实验报告)\1-5 输出闰年\obj\Debug\1-5 输出闰年.pdb

@@ -1,0 +1,8 @@
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\1-1 阶梯电价\bin\Debug\1-1 阶梯电价.exe.config
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\1-1 阶梯电价\bin\Debug\1-1 阶梯电价.exe
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\1-1 阶梯电价\bin\Debug\1-1 阶梯电价.pdb
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\1-1 阶梯电价\obj\Debug\1-1 阶梯电价.csproj.AssemblyReference.cache
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\1-1 阶梯电价\obj\Debug\1-1 阶梯电价.csproj.SuggestedBindingRedirects.cache
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\1-1 阶梯电价\obj\Debug\1-1 阶梯电价.csproj.CoreCompileInputs.cache
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\1-1 阶梯电价\obj\Debug\1-1 阶梯电价.exe
+D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\1-1 阶梯电价\obj\Debug\1-1 阶梯电价.pdb

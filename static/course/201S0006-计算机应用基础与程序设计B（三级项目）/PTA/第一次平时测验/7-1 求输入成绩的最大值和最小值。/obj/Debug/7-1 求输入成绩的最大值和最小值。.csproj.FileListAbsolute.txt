@@ -1,8 +1,0 @@
-D:\#Files\Projects\@PTA\2022级软件工程1,2,3班第一次平时测验\7-1 求输入成绩的最大值和最小值。\bin\Debug\7-1 求输入成绩的最大值和最小值。.exe.config
-D:\#Files\Projects\@PTA\2022级软件工程1,2,3班第一次平时测验\7-1 求输入成绩的最大值和最小值。\bin\Debug\7-1 求输入成绩的最大值和最小值。.exe
-D:\#Files\Projects\@PTA\2022级软件工程1,2,3班第一次平时测验\7-1 求输入成绩的最大值和最小值。\bin\Debug\7-1 求输入成绩的最大值和最小值。.pdb
-D:\#Files\Projects\@PTA\2022级软件工程1,2,3班第一次平时测验\7-1 求输入成绩的最大值和最小值。\obj\Debug\7-1 求输入成绩的最大值和最小值。.csproj.AssemblyReference.cache
-D:\#Files\Projects\@PTA\2022级软件工程1,2,3班第一次平时测验\7-1 求输入成绩的最大值和最小值。\obj\Debug\7-1 求输入成绩的最大值和最小值。.csproj.SuggestedBindingRedirects.cache
-D:\#Files\Projects\@PTA\2022级软件工程1,2,3班第一次平时测验\7-1 求输入成绩的最大值和最小值。\obj\Debug\7-1 求输入成绩的最大值和最小值。.csproj.CoreCompileInputs.cache
-D:\#Files\Projects\@PTA\2022级软件工程1,2,3班第一次平时测验\7-1 求输入成绩的最大值和最小值。\obj\Debug\7-1 求输入成绩的最大值和最小值。.exe
-D:\#Files\Projects\@PTA\2022级软件工程1,2,3班第一次平时测验\7-1 求输入成绩的最大值和最小值。\obj\Debug\7-1 求输入成绩的最大值和最小值。.pdb

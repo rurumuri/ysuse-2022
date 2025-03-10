@@ -1,8 +1,0 @@
-E:\文件\Projects\CwC\@PTA\2022级软件工程1,2,3班第二次平时测验\7-3 总年龄。\bin\Debug\7-3 总年龄。.exe.config
-E:\文件\Projects\CwC\@PTA\2022级软件工程1,2,3班第二次平时测验\7-3 总年龄。\bin\Debug\7-3 总年龄。.exe
-E:\文件\Projects\CwC\@PTA\2022级软件工程1,2,3班第二次平时测验\7-3 总年龄。\bin\Debug\7-3 总年龄。.pdb
-E:\文件\Projects\CwC\@PTA\2022级软件工程1,2,3班第二次平时测验\7-3 总年龄。\obj\Debug\7-3 总年龄。.csproj.AssemblyReference.cache
-E:\文件\Projects\CwC\@PTA\2022级软件工程1,2,3班第二次平时测验\7-3 总年龄。\obj\Debug\7-3 总年龄。.csproj.SuggestedBindingRedirects.cache
-E:\文件\Projects\CwC\@PTA\2022级软件工程1,2,3班第二次平时测验\7-3 总年龄。\obj\Debug\7-3 总年龄。.csproj.CoreCompileInputs.cache
-E:\文件\Projects\CwC\@PTA\2022级软件工程1,2,3班第二次平时测验\7-3 总年龄。\obj\Debug\7-3 总年龄。.exe
-E:\文件\Projects\CwC\@PTA\2022级软件工程1,2,3班第二次平时测验\7-3 总年龄。\obj\Debug\7-3 总年龄。.pdb

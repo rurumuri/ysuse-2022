@@ -1,8 +1,0 @@
-D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\3-6 IP地址转换\bin\Debug\3-6 IP地址转换.exe.config
-D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\3-6 IP地址转换\bin\Debug\3-6 IP地址转换.exe
-D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\3-6 IP地址转换\bin\Debug\3-6 IP地址转换.pdb
-D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\3-6 IP地址转换\obj\Debug\3-6 IP地址转换.csproj.AssemblyReference.cache
-D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\3-6 IP地址转换\obj\Debug\3-6 IP地址转换.csproj.SuggestedBindingRedirects.cache
-D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\3-6 IP地址转换\obj\Debug\3-6 IP地址转换.csproj.CoreCompileInputs.cache
-D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\3-6 IP地址转换\obj\Debug\3-6 IP地址转换.exe
-D:\#Files\Projects\@PTA\混合练习题题-2022软件工程1，2，3班\3-6 IP地址转换\obj\Debug\3-6 IP地址转换.pdb

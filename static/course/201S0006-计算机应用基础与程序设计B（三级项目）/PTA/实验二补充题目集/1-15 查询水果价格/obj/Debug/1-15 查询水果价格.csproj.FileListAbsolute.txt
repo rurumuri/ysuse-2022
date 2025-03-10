@@ -1,8 +1,0 @@
-D:\#Files\Projects\@PTA\Csharp实验二补充题目集（22软件1-3班）（本题目集不写入实验报告)\1-15 查询水果价格\bin\Debug\1-15 查询水果价格.exe.config
-D:\#Files\Projects\@PTA\Csharp实验二补充题目集（22软件1-3班）（本题目集不写入实验报告)\1-15 查询水果价格\bin\Debug\1-15 查询水果价格.exe
-D:\#Files\Projects\@PTA\Csharp实验二补充题目集（22软件1-3班）（本题目集不写入实验报告)\1-15 查询水果价格\bin\Debug\1-15 查询水果价格.pdb
-D:\#Files\Projects\@PTA\Csharp实验二补充题目集（22软件1-3班）（本题目集不写入实验报告)\1-15 查询水果价格\obj\Debug\1-15 查询水果价格.csproj.AssemblyReference.cache
-D:\#Files\Projects\@PTA\Csharp实验二补充题目集（22软件1-3班）（本题目集不写入实验报告)\1-15 查询水果价格\obj\Debug\1-15 查询水果价格.csproj.SuggestedBindingRedirects.cache
-D:\#Files\Projects\@PTA\Csharp实验二补充题目集（22软件1-3班）（本题目集不写入实验报告)\1-15 查询水果价格\obj\Debug\1-15 查询水果价格.csproj.CoreCompileInputs.cache
-D:\#Files\Projects\@PTA\Csharp实验二补充题目集（22软件1-3班）（本题目集不写入实验报告)\1-15 查询水果价格\obj\Debug\1-15 查询水果价格.exe
-D:\#Files\Projects\@PTA\Csharp实验二补充题目集（22软件1-3班）（本题目集不写入实验报告)\1-15 查询水果价格\obj\Debug\1-15 查询水果价格.pdb

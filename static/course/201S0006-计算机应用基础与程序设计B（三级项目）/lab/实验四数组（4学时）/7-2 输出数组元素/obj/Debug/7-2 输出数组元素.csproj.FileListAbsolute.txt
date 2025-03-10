@@ -1,0 +1,8 @@
+D:\#Files\Projects\@PTA\Csharp实验四数组（4学时）（22软件1-3班）\7-2 输出数组元素\bin\Debug\7-2 输出数组元素.exe.config
+D:\#Files\Projects\@PTA\Csharp实验四数组（4学时）（22软件1-3班）\7-2 输出数组元素\bin\Debug\7-2 输出数组元素.exe
+D:\#Files\Projects\@PTA\Csharp实验四数组（4学时）（22软件1-3班）\7-2 输出数组元素\bin\Debug\7-2 输出数组元素.pdb
+D:\#Files\Projects\@PTA\Csharp实验四数组（4学时）（22软件1-3班）\7-2 输出数组元素\obj\Debug\7-2 输出数组元素.csproj.AssemblyReference.cache
+D:\#Files\Projects\@PTA\Csharp实验四数组（4学时）（22软件1-3班）\7-2 输出数组元素\obj\Debug\7-2 输出数组元素.csproj.SuggestedBindingRedirects.cache
+D:\#Files\Projects\@PTA\Csharp实验四数组（4学时）（22软件1-3班）\7-2 输出数组元素\obj\Debug\7-2 输出数组元素.csproj.CoreCompileInputs.cache
+D:\#Files\Projects\@PTA\Csharp实验四数组（4学时）（22软件1-3班）\7-2 输出数组元素\obj\Debug\7-2 输出数组元素.exe
+D:\#Files\Projects\@PTA\Csharp实验四数组（4学时）（22软件1-3班）\7-2 输出数组元素\obj\Debug\7-2 输出数组元素.pdb

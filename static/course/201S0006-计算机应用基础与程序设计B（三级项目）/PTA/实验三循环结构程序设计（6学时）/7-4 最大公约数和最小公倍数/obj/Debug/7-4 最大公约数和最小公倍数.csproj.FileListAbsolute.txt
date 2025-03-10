@@ -1,8 +1,0 @@
-D:\#Files\Projects\@PTA\Cs实验三循环结构程序设计（6学时）（22软件1-3班）\7-4 最大公约数和最小公倍数\bin\Debug\7-4 最大公约数和最小公倍数.exe.config
-D:\#Files\Projects\@PTA\Cs实验三循环结构程序设计（6学时）（22软件1-3班）\7-4 最大公约数和最小公倍数\bin\Debug\7-4 最大公约数和最小公倍数.exe
-D:\#Files\Projects\@PTA\Cs实验三循环结构程序设计（6学时）（22软件1-3班）\7-4 最大公约数和最小公倍数\bin\Debug\7-4 最大公约数和最小公倍数.pdb
-D:\#Files\Projects\@PTA\Cs实验三循环结构程序设计（6学时）（22软件1-3班）\7-4 最大公约数和最小公倍数\obj\Debug\7-4 最大公约数和最小公倍数.csproj.AssemblyReference.cache
-D:\#Files\Projects\@PTA\Cs实验三循环结构程序设计（6学时）（22软件1-3班）\7-4 最大公约数和最小公倍数\obj\Debug\7-4 最大公约数和最小公倍数.csproj.SuggestedBindingRedirects.cache
-D:\#Files\Projects\@PTA\Cs实验三循环结构程序设计（6学时）（22软件1-3班）\7-4 最大公约数和最小公倍数\obj\Debug\7-4 最大公约数和最小公倍数.csproj.CoreCompileInputs.cache
-D:\#Files\Projects\@PTA\Cs实验三循环结构程序设计（6学时）（22软件1-3班）\7-4 最大公约数和最小公倍数\obj\Debug\7-4 最大公约数和最小公倍数.exe
-D:\#Files\Projects\@PTA\Cs实验三循环结构程序设计（6学时）（22软件1-3班）\7-4 最大公约数和最小公倍数\obj\Debug\7-4 最大公约数和最小公倍数.pdb

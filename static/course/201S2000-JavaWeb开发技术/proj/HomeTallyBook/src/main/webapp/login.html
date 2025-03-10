@@ -1,0 +1,97 @@
+<html lang="zh-cn">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>登录</title>
+    <style>
+        #lform {
+            width: 20%;
+            border-style: solid;
+            border-radius: 20px;
+            border-width: 5px;
+            border-color: #fefaff;
+            padding: 20px;
+            background-color: #f6f3ff;
+            margin: auto;
+            position: absolute;
+            top: 40%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.5);
+        }
+
+        input[type=text],
+        input[type=password] {
+            width: 100%;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            padding: 6px;
+        }
+
+        input[type=submit] {
+            float: right;
+            width: 100%;
+            position: relative;
+            border: 0px;
+            border-radius: 3px;
+            bottom: 5px;
+            background-color: #B0C4DE;
+        }
+
+        .container {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .left {
+            display: flex;
+            gap: 10px;
+        }
+    </style>
+    <script language="javascript">
+        function infoTest() {
+            var uname = window.document.form1.username.value;
+            var pwd = window.document.form1.password.value;
+            if (uname.length == 0) {
+                alert("请输入用户名！");
+                return false;
+            } else if (pwd.length == 0) {
+                alert("请输入密码！");
+                return false;
+            } else return true;
+        }
+
+        function reloadCode() {
+            document.getElementById("code").src = "http://localhost:8080/code" + "?" + Math.random();
+        }
+    </script>
+</head>
+
+<body>
+<div id="lform">
+    <table>
+        <form name="form1" action="cj" method="post" onsubmit="return infoTest()">
+            <tr><b>登录</b></tr>
+            <tr><p>用户名 <input type="text" name="uname"></p></tr>
+            <tr><p>密码 <input type="password" name="pwd"></p></tr>
+            <tr><p>验证码 <input type="text" name="usercode"></p></tr>
+            <!--            <img  alt="验证码" src="http://localhost:8080/code" id = "code">-->
+            <!--            <a href="javascript: reloadCode()">看不清</a>-->
+            <!--            <a href="./signup.html">注册</a>-->
+            <!--            <p><input type="submit" value="登录"></p>-->
+            <div class="container">
+                <div class="left">
+                    <img alt="验证码" src="http://localhost:8080/code" id="code">
+                    <a href="javascript: reloadCode()">看不清</a>
+                </div>
+                <a href="./signup.html">注册</a>
+            </div>
+            <p><input type="submit" value="登录"></p>
+        </form>
+    </table>
+</div>
+</body>
+</html>
+
