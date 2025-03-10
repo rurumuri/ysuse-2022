@@ -27,12 +27,6 @@ sidebar_position: 1
 
 :::
 
-:::warning 注意
-
-仅当你有了解 [学术诚信（什么事情能做, 什么不能）](http://integrity.mit.edu/)，并且**知道自己在做什么**的情况下，才可以参考和使用我的作业、实验报告和项目代码等成果。
-
-:::
-
 ```ysu
 ...............................................................;;.............................................................
 .................................................v%%%%%%i^............*i%%%%%%o...............................................
@@ -90,6 +84,33 @@ sidebar_position: 1
 .......................................................8%%%%%%%%%%%%%%%%8.....................................................
 ..............................................................................................................................
 ```
+
+## 关于软件工程专业
+
+适用于 2020 年以后的燕山大学*信息科学与工程学院*软件工程专业。
+
+- 软件工程专业拓扑图 - 2020版：
+    ![软件工程专业拓扑图 - 2020版](../static/course/软件工程专业拓扑图%20-%202020版.jpg)
+- [软件工程专业2020版教学大纲.pdf](../static/course/软件工程专业2020版教学大纲.pdf)
+- [2020版培养计划 - FINAL.xls](../static/course/2020版培养计划%20-%20FINAL.xls)
+
+## 使用指南
+
+:::warning 注意
+
+仅当你有了解 [学术诚信（什么事情能做, 什么不能）](http://integrity.mit.edu/)，并且**知道自己在做什么**的情况下，才可以参考和直接使用我的作业、实验报告和项目代码等成果。
+
+:::
+
+我们在这里介绍三种下载文件的方式：
+
+1. 你当然可以克隆或者下载整个项目，但因为整个项目较大（目前已经达到 GB 级别），可能对于一部分人不太方便。这里对于使用 Chrome 和 Firefox 的用户，我们推荐一个 [Chrome 插件](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn?hl=en)和 [Firefox 插件](https://addons.mozilla.org/en-US/firefox/addon/gitzip/)，**GitZip**。该插件可以让我们只下载项目中我们感兴趣的那些文件夹，也就是我们所感兴趣的课程的资料。同时对 Opera 用户来说，大部分的 Chrome 插件都可以通过一款名为 [Install Chrome Extensions](https://addons.opera.com/zh-cn/extensions/details/install-chrome-extensions/) 的 Opera 插件安装使用，GitZip 也不例外。而对于使用其他浏览器的朋友来说，很遗憾，这个插件暂时只能在这三款浏览器中使用。
+2. 你还可以安装名为 **Refined GitHub** 的 [Chrome 插件](https://chromewebstore.google.com/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf)，成功安装之后，在 GitHub 仓库子目录下的 `More options` 菜单中会出现 `Download Directory` 的选项，它能帮助你自动跳转到 [download-directory.github.io](https://download-directory.github.io/) 进行下载。
+3. 或者复制该文件夹的网址，粘贴入 [DownGit](https://minhaskamal.github.io/DownGit/#/home) 中，选择 **download** 即可。
+
+注：对于第一种方法而言，它需要使用者拥有 Github 账号，并且该插件需要使用者的授权；而第二种方法和第三种方法虽然一次只能下载一个文件夹，但并不需要使用者拥有 GitHub 账号。
+
+> 此部分摘录修改自[西工大计算机专业课程攻略](https://github.com/npu-cs/Course-Material)
 
 ## 贡献指南
 
