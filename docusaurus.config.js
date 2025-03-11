@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'YSUSE Docs',
   tagline: 'Software Engineering is COOL',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/nina.png',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
@@ -78,8 +78,8 @@ const config = {
       navbar: {
         title: 'YSUSE Docs',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: '不登校',
+          src: 'img/nina.png',
         },
         items: [
           {
