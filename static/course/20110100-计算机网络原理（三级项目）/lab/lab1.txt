@@ -1,0 +1,271 @@
+windows网络配置方法及基本网络命令
+
+一、 实验目的
+
+    1. 了解操作系统中关于网络的配置方法、网络命令及使用方法。
+
+ 2. 掌握基本网络命令的作用。
+
+    3. 掌握使用网络命令观察网络状态的方法。
+
+二、实验环境
+
+   1. 软件环境：Microsoft Windows 操作系统。
+
+   2. 硬件环境：配置网卡的计算机，有网络连接。
+
+三、实验步骤
+
+  1. 了解TCP/IP，静态IP和动态IP，DHCP相关。
+
+  2. 配置TCP/IP。操作系统中窗口方式配置TCP/IP的方法步骤，查看本地IP地址的方法。
+
+  3. 使用网络命令ipconfig命令来测试TCP/IP。
+
+  4. 使用ping命令来验证网络连接。
+
+  5. 学习tracert、 netstat、 arp等命令的功能及使用方法。
+
+   四、 实验内容及要求：
+
+根据实验步骤和相关资料，掌握客户机网络命令相关内容，掌握相关命令对应的作用，并实现如下内容，写入实验报告：
+
+    1、利用窗口查看本机网络配置，根据配置信息，把本机地址改为静态地址（和动态地址不同和相同两种情况），并使用ipconfig、ping命令验证网络状态，如果网络不通请根据相关现象测试，并给出自己的推论和思考。（请使用自己的笔记本连接校园网无线进行操作）
+
+    2、在本机网络畅通情况下，使用ipconfig、tracert、arp、netstat命令查看本机网络信息并解释，要求常用参数（标红部分）都要使用上。
+
+    3、自学route命令，并考虑如何基于这个命令实现本机只和部分网络进行数据传输。
+
+  实验报告书写注意排版美观，整齐。按照实验内容要求进行，截图运行结果，并说明具体含义。
+
+
+
+ 附件：
+
+软件资料下载：
+
+校内：http://222.30.145.10/s/V5Iq
+
+          ftp://222.30.145.100/   进"软件/网络实验软件"目录
+
+ 常用命令介绍
+
+1. Ipconfig命令
+
+Ipconfig命令可以用来显示本机当前的TCP/IP配置信息。这些信息一般用来验证TCP/IP设置是否正确。
+
+   常用格式：
+
+（1）当使用Ipconfig是不带任何参数选项，那么它为每个已经配置好的接口显示IP地址、子网掩码和默认网关值。
+
+（2）Ipconfig/all。当使用all选项时，Ipconfig除了显示已配置TCP/IP信息外，还显示内置于本地网卡中的物理地址（MAC）以及主机名等信息。
+
+（3）Ipconfig/release和Ipconfig/renew。这是两个附加选项，只能在DHCP（动态主机配置协议）服务器租用IP地址的计算机上起作用。
+
+2. Ping命令
+
+Ping命令的格式如下：
+
+Ping [-t] [-a] [-n count] [-l size] [-f] [-I TTL] [-v TOS] [-r count] [-s count] [[-j host-list]|[-k host-list]] [-w timeout] destination-list
+
+Ping命令主要参数如下：
+
+-t：使当前主机不断地向目的主机发送数据，直到按Ctrl+C键中断。
+
+-a：将地址解析为计算机名。
+
+-n count：发送count 指定的ECHO数据包数，默认值为4 。
+
+-l size：发送的数据包的大小。
+
+-f：在数据包中发送“不要分段”标志，数据包就不会被路由上的网关分段。
+
+-i TTL：将“生存时间”字段设置为TTL指定的值。
+
+-v TOS：指定服务类型。
+
+-r count：指出要记录路由的轮数。
+
+-s count：指定count 指定的跃点数的时间戳。
+
+-w timeout：指定超时时间间隔（单位为毫秒），默认为1000。
+
+用Ping命令测试网络是否正常的主要步骤：
+
+1）Ping  127.0.0.1 。Ping 环回地址验证是否在本地计算机上安装TCP/IP协议以及配置是否正确。
+
+2）Ping localhost。localhost 是操作系统保留名（127.0.0.1的别名）。
+
+3）Ping  本机IP地址。
+
+4）Ping  局域网中其他机器的IP地址。
+
+5）Ping  默认网关的IP地址。
+
+6）Ping  远程IP。
+
+3.Tracert命令
+
+此命令可以判断数据包到达目的主机所经过的路径，显示数据包经过的中继节点清单和到达时间。
+
+（1）Tracert命令的格式如下：
+
+       Tracert[-d ][-h maximum_hops][-j host-list][-w timeout] target_name
+
+（2）主要参数如下：
+
+-d ：不解析主机名。
+
+-h maximum_hops ：指定搜索到目的地址的最大跳数。
+
+- j host-list ：沿着主机列表释放源路由。
+
+-w timeout ：指定超时时间间隔（单位为毫秒）。
+
+target_name ：目标主机。
+
+   可以用“Tracert 某台远程主机的名称”来跟踪到这台主机的路由。
+
+4.Netstat命令
+
+此命令用于了解网络的整体使用情况，它可以显示当前计算机中正在活动的网络连接的详细信息。
+
+（1）Netstat的命令格式如下：
+
+         Netstat[-a][-e][-n] [-s][-p proto][-r][interval]
+
+（2）主要参数说明如下：
+
+-a ：显示所有主机连接和监听的端口号。
+
+-e ：显示以太网统计信息。
+
+-n ：以数字表格形式显示地址和端口。
+
+-p proto ：显示特定协议的具体使用信息。
+
+-r ：显示路由信息。
+
+-s ：显示每个协议的使用状态，这些协议主要有TCP、UDP、ICMP和IP。
+
+经常使用Netstat –an 命令来显示当前主机的网络连接状态，可以看到有哪些端口处于打开状态，有哪些远程主机连接到本机。
+
+5. ARP命令
+
+ARP即地址解析协议，它是一个重要的TCP/IP协议，用于确定对应IP地址的物理地址。使用ARP命令可以查看本地计算机的ARP高速缓存中的当前内容或者查看另一台计算机的ARP缓存信息。按照默认设置，ARP高速缓存中的项目是动态的，每当发送一个指定地点的数据包且高速缓存中不存在当前项目时，ARP便会自动添加该项目。一旦高速缓存的项目被输入，它们就已经开始走向失效状态。所以，需要通过ARP命令查看某台计算机高速缓存中的内容时，先ping此台计算机。
+
+ARP的命令格式：
+
+      Arp –s inet-addr eth-addr [if-addr]将相应的IP与mac地址绑定
+
+      Arp –d inet-addr [if-addr]删除相应的绑定
+
+      Arp –a [inet-addr] [-N if-addr] 查询arp协议表，显示IP与物理地址情况
+
+   （ inet-addr ：IP地址 ； eth-addr ：物理地址）
+
+主要参数:
+
+-a：显示ARP缓存信息，即所有已激活的IP地址和物理地址的对应关系。若指定IP地址，则只显示该IP地址的ARP缓存信息。（先用ping命令连通某台主机，再运行Arp –a命令）。
+
+-d：删除所有ARP缓存内容。若在命令中指定IP地址，则只删除该IP地址的ARP缓存信息。
+
+-s：向ARP高速缓存中人工输入添加静态项目，即增加IP地址和物理地址的对应关系。在显示ARP缓存信息时，该信息的类型为static。
+
+例如：首先ping 202.206.249.94，然后运行Arp –a，ARP高速缓存信息中则会显示该IP地址202.206.249.94的ARP缓存信息。
+
+6.Net命令
+
+Net命令的语法：是一个命令行命令。管理网络环境、域、用户等信息。
+
+  NET [  ACCOUNTS | COMPUTER | CONFIG | CONTINUE | FILE | GROUP | HELP | HELPMSG  | LOCALGROUP | NAME | PAUSE | PRINT | SEND | SESSION | SHARE | START | STATISTICS | STOP  | TIME | USE | USER | VIEW  ]
+
+NET命令的基本用法
+
+　　下面对NET命令的不同参数的基本用法做一些初步的介绍：
+
+(1)NET VIEW
+
+　　作 用：显示域列表、计算机列表或指定计算机的共享资源列表。
+
+　　命令格式：net view [\computername | /domain[:domainname]]
+
+(2)NET USER
+
+　　作 用：添加或更改用户帐号或显示用户帐号信息。该命令也可以写为 net users。
+
+　　命令格式：net user [username [password | *] [options]] [/domain]
+
+
+
+(3)NET USE
+
+　　作 用：连接计算机或断开计算机与共享资源的连接，或显示计算机的连接信息。
+
+　　命令格式：net use [devicename | *] [\computername\sharename[\volume]] [password | *]] [/user:[domainname\]username] [[/delete] | [/persistent:{yes | no}]]
+
+　　参数介绍：
+
+　　键入不带参数的net use列出网络连接。
+
+devicename指定要连接到的资源名称或要断开的设备名称。
+
+\computername\sharename服务器及共享资源的名称。
+
+password访问共享资源的密码。
+
+*提示键入密码。
+
+/user指定进行连接的另外一个用户。
+
+domainname指定另一个域。
+
+username指定登录的用户名。
+
+/home将用户连接到其宿主目录。
+
+/delete取消指定网络连接。
+
+/persistent控制永久网络连接的使用。
+
+
+(4)NET TIME
+
+　　作 用：使计算机的时钟与另一台计算机或域的时间同步。
+
+　　命令格式：net time [\computername | /domain[:name]] [/set]
+
+　　参数介绍：
+
+(1)\computername要检查或同步的服务器名。
+
+(2)/domain[:name]指定要与其时间同步的域。
+
+(3)/set使本计算机时钟与指定计算机或域的时钟同步。
+
+下面的这4个参数是相关的，所以一起介绍
+
+(5)Net Start
+
+　　作 用：启动服务，或显示已启动服务的列表。
+
+命令格式：net start service
+
+(6)Net Pause
+
+　　作 用：暂停正在运行的服务。
+
+命令格式：net pause service
+
+(7)Net Continue
+
+　　作 用：重新激活挂起的服务。
+
+命令格式：net continue service
+
+(8)NET STOP
+
+　　作 用：停止 Windows NT 网络服务。
+
+命令格式：net stop service
+
