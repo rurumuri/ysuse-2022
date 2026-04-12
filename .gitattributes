@@ -1,1 +1,9 @@
+static/course/**/*.pdf filter=lfs diff=lfs merge=lfs -text
+static/course/**/*.pptx filter=lfs diff=lfs merge=lfs -text
+static/course/**/*.ppt filter=lfs diff=lfs merge=lfs -text
+static/course/**/*.docx filter=lfs diff=lfs merge=lfs -text
+static/course/**/*.zip filter=lfs diff=lfs merge=lfs -text
+static/course/**/*.rar filter=lfs diff=lfs merge=lfs -text
+static/course/**/*.7z filter=lfs diff=lfs merge=lfs -text
+# 可根据实际文件类型继续添加（如 *.mp4, *.iso 等）
 static/course/** filter=lfs diff=lfs merge=lfs -text
