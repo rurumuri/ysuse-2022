@@ -10,12 +10,12 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'YSUSE Docs',
+  title: 'YSUSE Docs | 燕山大学软件工程专业不登校指南',
   tagline: 'Software Engineering is COOL',
   favicon: 'img/nina.png',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://rurumuri.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/ysuse-2022/',
@@ -23,10 +23,45 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'rurumuri', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: 'ysuse-2022', // Usually your repo name.
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
+  trailingSlash: false, // 消除 trailing slash 重定向，减少 Algolia crawler 的 Ignored 记录
+
+  // SEO: Use headTags for structured data (JSON-LD). Metadata moved to themeConfig to satisfy TS types.
+  headTags: [
+    // JSON-LD structured data for better rich results in search engines
+    {
+      tagName: 'script',
+      attributes: {
+        type: 'application/ld+json',
+      },
+      innerHTML: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'WebSite',
+        name: 'YSUSE Docs',
+        url: 'https://rurumuri.github.io/ysuse-2022/',
+        description:
+          '燕山大学软件工程专业不登校自学指南。',
+        publisher: {
+          '@type': 'Organization',
+          name: 'rurumuri',
+          url: 'https://github.com/rurumuri/ysuse-2022',
+          logo: 'https://rurumuri.github.io/ysuse-2022/img/nina.png',
+        },
+        potentialAction: {
+          '@type': 'SearchAction',
+          target: {
+            '@type': 'EntryPoint',
+            urlTemplate:
+              'https://rurumuri.github.io/ysuse-2022/search?q={search_term_string}',
+          },
+          'query-input': 'required name=search_term_string',
+        },
+      }),
+    },
+  ],
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -75,8 +110,33 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      // SEO: social card (ideally 1200x630px for optimal sharing) and metadata for better SEO, OG
+      image: 'img/nina.png',
+      metadata: [
+        {
+          name: 'description',
+          content:
+            '燕山大学软件工程专业不登校指南，包含燕山大学信息科学与工程学院软件工程专业相关资料。目前资料和信息均以 2022 级课程为基础，部分内容可能具有时效性。',
+        },
+        {
+          name: 'keywords',
+          content:
+            '燕山大学,软件工程,YSUSE,不登校指南,课程攻略,操作系统,数据结构,编译原理,计算机网络,数据库,软件工程,项目管理,机器学习,课程资料,自学指南',
+        },
+        {
+          name: 'og:title',
+          content: 'YSUSE Docs | 燕山大学软件工程专业不登校指南',
+        },
+        {
+          name: 'og:description',
+          content:
+            '燕山大学软件工程专业不登校自学指南',
+        },
+        {
+          name: 'og:type',
+          content: 'website',
+        },
+      ],
       navbar: {
         title: 'YSUSE Docs',
         logo: {
@@ -158,14 +218,16 @@ const config = {
         // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
         // externalUrlRegex: 'external\\.com|domain\\.com',
   
-        // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
-        // replaceSearchResultPathname: {
-        //   from: '/docs/', // or as RegExp: /\/docs\//
-        //   to: '/',
-        // },
-  
-        // Optional: Algolia search parameters
-        // searchParameters: {},
+        // Fix search result URLs for baseUrl /ysuse-2022/ and reduce redirect issues
+        replaceSearchResultPathname: {
+          from: '/ysuse-2022/docs/',
+          to: '/docs/',
+        },
+
+        // Optional: Algolia search parameters for better Chinese docs relevance
+        searchParameters: {
+          facetFilters: ['language:zh-Hans', 'type:lvl0:Docs'],
+        },
   
         // Optional: path for search page that enabled by default (`false` to disable it)
         searchPagePath: 'search',

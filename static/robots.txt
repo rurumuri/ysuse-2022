@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rurumuri.github.io/ysuse-2022/sitemap.xml
+
+# Allow search engines to crawl the documentation site
+User-agent: Googlebot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
